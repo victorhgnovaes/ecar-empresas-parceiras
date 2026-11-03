@@ -1,0 +1,3376 @@
+[
+  {
+    "brand": "chevrolet",
+    "version": "a0da0b32-6b66-4561-b638-b53f120f7b6b",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7j/azul-boreal/front-3q.png",
+    "sha256": "1d2f54c71272c933d46ef985868d07ca132f9d94898e59dd640a2e50915a8481"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "a0da0b32-6b66-4561-b638-b53f120f7b6b",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7j/branco-summit/front-3q.png",
+    "sha256": "0bd32609ee7fd96a3ca14c484ceeb0909a75065fb3825f1e108b64d925091e1e"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "a0da0b32-6b66-4561-b638-b53f120f7b6b",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7j/prata-shark/front-3q.png",
+    "sha256": "0709995a2bb946cabfe9ef4c71c696cd3d4d6ecaf5885c21ae160d451825cc62"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "a0da0b32-6b66-4561-b638-b53f120f7b6b",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7j/preto-ouro-negro/front-3q.png",
+    "sha256": "132fa6ed5eec1cc030d4095e24a7962ffb378cb03041e1feaa937e9bbb895dd1"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "a0da0b32-6b66-4561-b638-b53f120f7b6b",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7j/vermelho-scarlet/front-3q.png",
+    "sha256": "f4b1cbb9faf15f6efabfd608d465250e8589fdd545c3195ab3e0532feda0a51d"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "202dfcf1-70f4-43ea-b803-274f0d583387",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix/2027/a5f/azul-boreal/front-3q.png",
+    "sha256": "e6cca0decaa1a1dc2beaa48e9756df5dc550e2562da6d139c1ceede995975e10"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "202dfcf1-70f4-43ea-b803-274f0d583387",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix/2027/a5f/branco-summit/front-3q.png",
+    "sha256": "04805bb0b682df4edcabcf3c92923c9aa9830ac1eb8ea7251f8b70650a7da169"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "202dfcf1-70f4-43ea-b803-274f0d583387",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix/2027/a5f/prata-shark/front-3q.png",
+    "sha256": "0f9259a467c7a8806a7631fff9b669c8be94a0296a981d13a4ff81488cbd59cd"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "202dfcf1-70f4-43ea-b803-274f0d583387",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix/2027/a5f/preto-ouro-negro/front-3q.png",
+    "sha256": "9d47c57effd247e3154f9878c4397b96a42e3394ebd954dcd3460614b26d353e"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "202dfcf1-70f4-43ea-b803-274f0d583387",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix/2027/a5f/vermelho-scarlet/front-3q.png",
+    "sha256": "7ab05ab7f4f867a044aa99e92d5767b0c6dc367eea6e87a69618a8c5fb762f3c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "48d11c8b-22ae-4a4b-8168-82ec10f1adfc",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix/2027/a3x/azul-boreal/front-3q.png",
+    "sha256": "6f5161680b1aa34abe1a45cca863d0e0e37bec3d6f73c65667d8b4be70a44667"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "48d11c8b-22ae-4a4b-8168-82ec10f1adfc",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix/2027/a3x/branco-summit/front-3q.png",
+    "sha256": "86de354590d76934ef94bf039d70fff567a1813e436d5c8c6c01285dbfdc03e7"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "48d11c8b-22ae-4a4b-8168-82ec10f1adfc",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix/2027/a3x/prata-shark/front-3q.png",
+    "sha256": "01a2c6b4807fae368dc2f5e1ad77251a835947288307ade14496c5fa7d727cee"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "48d11c8b-22ae-4a4b-8168-82ec10f1adfc",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix/2027/a3x/preto-ouro-negro/front-3q.png",
+    "sha256": "78520eaf2ec4cb946fe21427894d63fdd006a927742bd40d75350600fd1aee25"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "48d11c8b-22ae-4a4b-8168-82ec10f1adfc",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix/2027/a3x/vermelho-scarlet/front-3q.png",
+    "sha256": "51e26da558ffc32b64d42432fc15d844c40307791d72336643689904b17ba508"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "340042f7-197c-4782-a28b-3ebfef2a4a4e",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix/2027/a2a/azul-boreal/front-3q.png",
+    "sha256": "771685f91160757e7f7bc02063e7b8e9ac21d07426f6ba8216b9fca3d78b36a3"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "340042f7-197c-4782-a28b-3ebfef2a4a4e",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix/2027/a2a/branco-summit/front-3q.png",
+    "sha256": "8612eeafd7200534fb11936078e813c07f8700b89f0d7f66e6ab5380f46e98f2"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "340042f7-197c-4782-a28b-3ebfef2a4a4e",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix/2027/a2a/prata-shark/front-3q.png",
+    "sha256": "a460c53e0f7a86b03fab03e7e8d7a9fe0dafbce10d8dc34dcf51a8cd52aa8fb8"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "340042f7-197c-4782-a28b-3ebfef2a4a4e",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix/2027/a2a/preto-ouro-negro/front-3q.png",
+    "sha256": "132fa6ed5eec1cc030d4095e24a7962ffb378cb03041e1feaa937e9bbb895dd1"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "340042f7-197c-4782-a28b-3ebfef2a4a4e",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix/2027/a2a/vermelho-scarlet/front-3q.png",
+    "sha256": "4c8a3d290325f6d710ad782be4b39ea557c523b1b4e651fd3eb8f449b7a27cb9"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3f820cfb-2e3f-4434-80ed-6ccbb5bc707d",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix/2027/rfl/azul-boreal/front-3q.png",
+    "sha256": "771685f91160757e7f7bc02063e7b8e9ac21d07426f6ba8216b9fca3d78b36a3"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3f820cfb-2e3f-4434-80ed-6ccbb5bc707d",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix/2027/rfl/branco-summit/front-3q.png",
+    "sha256": "8612eeafd7200534fb11936078e813c07f8700b89f0d7f66e6ab5380f46e98f2"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3f820cfb-2e3f-4434-80ed-6ccbb5bc707d",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix/2027/rfl/prata-shark/front-3q.png",
+    "sha256": "a460c53e0f7a86b03fab03e7e8d7a9fe0dafbce10d8dc34dcf51a8cd52aa8fb8"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3f820cfb-2e3f-4434-80ed-6ccbb5bc707d",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix/2027/rfl/preto-ouro-negro/front-3q.png",
+    "sha256": "132fa6ed5eec1cc030d4095e24a7962ffb378cb03041e1feaa937e9bbb895dd1"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3f820cfb-2e3f-4434-80ed-6ccbb5bc707d",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix/2027/rfl/vermelho-scarlet/front-3q.png",
+    "sha256": "4c8a3d290325f6d710ad782be4b39ea557c523b1b4e651fd3eb8f449b7a27cb9"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "40f2251a-6051-494b-afd7-ae4a9b1a6de4",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7k/azul-boreal/front-3q.png",
+    "sha256": "771685f91160757e7f7bc02063e7b8e9ac21d07426f6ba8216b9fca3d78b36a3"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "40f2251a-6051-494b-afd7-ae4a9b1a6de4",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7k/branco-summit/front-3q.png",
+    "sha256": "8612eeafd7200534fb11936078e813c07f8700b89f0d7f66e6ab5380f46e98f2"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "40f2251a-6051-494b-afd7-ae4a9b1a6de4",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7k/prata-shark/front-3q.png",
+    "sha256": "a460c53e0f7a86b03fab03e7e8d7a9fe0dafbce10d8dc34dcf51a8cd52aa8fb8"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "40f2251a-6051-494b-afd7-ae4a9b1a6de4",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7k/preto-ouro-negro/front-3q.png",
+    "sha256": "132fa6ed5eec1cc030d4095e24a7962ffb378cb03041e1feaa937e9bbb895dd1"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "40f2251a-6051-494b-afd7-ae4a9b1a6de4",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7k/vermelho-scarlet/front-3q.png",
+    "sha256": "4c8a3d290325f6d710ad782be4b39ea557c523b1b4e651fd3eb8f449b7a27cb9"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "a83e4e35-822b-4ad6-8c13-d856f10558fe",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7y/prata-shark/front-3q.png",
+    "sha256": "ce85e244eada7a9d1f0b6f4b2ab1f4274db07b407177b671c9fc8570940d2348"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "68a2d643-3e2a-4077-b0b0-b4f723f37f74",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix/2027/rgn-rgc/branco-summit/front-3q.png",
+    "sha256": "a369539dd599f80f01f263cd3809457b7943c8186bd51415ec0b5dc893178875"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "68a2d643-3e2a-4077-b0b0-b4f723f37f74",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix/2027/rgn-rgc/vermelho-scarlet/front-3q.png",
+    "sha256": "44771585dca48a43cb7f1024c3d6ffc4aa1993ded2c0cfbb8f098bafaa6a49e0"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "68a2d643-3e2a-4077-b0b0-b4f723f37f74",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix/2027/rgn-rgc/preto-ouro-negro/front-3q.png",
+    "sha256": "8fbb9758e36d964a8db0b4711508f2afb85a9a1276c92fda9fa4f4ef30455734"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3c88ecfb-af5a-4748-8476-29ae7f5cde80",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7r/azul-boreal/front-3q.png",
+    "sha256": "2abd72173ed5ba06d62fc0827a8903ea38543beee0538a930622d63e0548d1ce"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3c88ecfb-af5a-4748-8476-29ae7f5cde80",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7r/branco-summit/front-3q.png",
+    "sha256": "9f3f0ea9bc844a149a7d13fcae006b9abb83271076b32852473d5dfe8afc2903"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3c88ecfb-af5a-4748-8476-29ae7f5cde80",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7r/prata-shark/front-3q.png",
+    "sha256": "58f29f3e9c044010e4dbbd48bebcec825747f4d3e97bb581dd0a2755bd3905c1"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3c88ecfb-af5a-4748-8476-29ae7f5cde80",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7r/preto-ouro-negro/front-3q.png",
+    "sha256": "a5bd9949221f467d7ae65a78c73ff1e2b64c186b6317b3d15816f3295242d01b"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3c88ecfb-af5a-4748-8476-29ae7f5cde80",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix/2027/r7r/vermelho-scarlet/front-3q.png",
+    "sha256": "af357bfe9bd5a3ea87ab6f8e1818dec797f1a78bd34c880b0e1003dce48c18d5"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "887dcfde-0da6-43cf-b243-4874bb1749a6",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8a/azul-boreal/front-3q.png",
+    "sha256": "64753cc9cdbe8bb805b1885f0fd87177a26a86d3795daece4a7a0082f8731cbb"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "887dcfde-0da6-43cf-b243-4874bb1749a6",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8a/branco-summit/front-3q.png",
+    "sha256": "08adf47e692b5540a716b1fb3d6b441f310c2b74e23a31eea20ae841cc616896"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "887dcfde-0da6-43cf-b243-4874bb1749a6",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8a/prata-shark/front-3q.png",
+    "sha256": "a7cd9e0f3ab3288468f6122be66562104d4e077aaf33ba48768345eff2b3fb3c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "887dcfde-0da6-43cf-b243-4874bb1749a6",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8a/preto-ouro-negro/front-3q.png",
+    "sha256": "c82778cfc91b621545465a0eac6ba70cca4401d4cc796e05c8098fb58a6ee36c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "887dcfde-0da6-43cf-b243-4874bb1749a6",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8a/vermelho-scarlet/front-3q.png",
+    "sha256": "c2b328bae93fd8be3d038d9943d3464e723acfb48c3535ebc8408376419b2c3e"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8c356622-4ba2-486b-b4f2-34f0d4a10172",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/a4a/vermelho-scarlet/front-3q.png",
+    "sha256": "c2b328bae93fd8be3d038d9943d3464e723acfb48c3535ebc8408376419b2c3e"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8c356622-4ba2-486b-b4f2-34f0d4a10172",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/a4a/azul-boreal/front-3q.png",
+    "sha256": "64753cc9cdbe8bb805b1885f0fd87177a26a86d3795daece4a7a0082f8731cbb"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8c356622-4ba2-486b-b4f2-34f0d4a10172",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/a4a/branco-summit/front-3q.png",
+    "sha256": "08adf47e692b5540a716b1fb3d6b441f310c2b74e23a31eea20ae841cc616896"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8c356622-4ba2-486b-b4f2-34f0d4a10172",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/a4a/prata-shark/front-3q.png",
+    "sha256": "a7cd9e0f3ab3288468f6122be66562104d4e077aaf33ba48768345eff2b3fb3c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8c356622-4ba2-486b-b4f2-34f0d4a10172",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/a4a/preto-ouro-negro/front-3q.png",
+    "sha256": "c82778cfc91b621545465a0eac6ba70cca4401d4cc796e05c8098fb58a6ee36c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "6664d2a7-bcab-4483-81f4-e63737d80ab5",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8g/azul-boreal/front-3q.png",
+    "sha256": "64753cc9cdbe8bb805b1885f0fd87177a26a86d3795daece4a7a0082f8731cbb"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "6664d2a7-bcab-4483-81f4-e63737d80ab5",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8g/branco-summit/front-3q.png",
+    "sha256": "08adf47e692b5540a716b1fb3d6b441f310c2b74e23a31eea20ae841cc616896"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "6664d2a7-bcab-4483-81f4-e63737d80ab5",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8g/prata-shark/front-3q.png",
+    "sha256": "a7cd9e0f3ab3288468f6122be66562104d4e077aaf33ba48768345eff2b3fb3c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "6664d2a7-bcab-4483-81f4-e63737d80ab5",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8g/preto-ouro-negro/front-3q.png",
+    "sha256": "c82778cfc91b621545465a0eac6ba70cca4401d4cc796e05c8098fb58a6ee36c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "6664d2a7-bcab-4483-81f4-e63737d80ab5",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8g/vermelho-scarlet/front-3q.png",
+    "sha256": "c2b328bae93fd8be3d038d9943d3464e723acfb48c3535ebc8408376419b2c3e"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "89641c02-3667-498d-8a90-08222c193143",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8b/azul-boreal/front-3q.png",
+    "sha256": "64753cc9cdbe8bb805b1885f0fd87177a26a86d3795daece4a7a0082f8731cbb"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "89641c02-3667-498d-8a90-08222c193143",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8b/branco-summit/front-3q.png",
+    "sha256": "08adf47e692b5540a716b1fb3d6b441f310c2b74e23a31eea20ae841cc616896"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "89641c02-3667-498d-8a90-08222c193143",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8b/prata-shark/front-3q.png",
+    "sha256": "a7cd9e0f3ab3288468f6122be66562104d4e077aaf33ba48768345eff2b3fb3c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "89641c02-3667-498d-8a90-08222c193143",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8b/preto-ouro-negro/front-3q.png",
+    "sha256": "c82778cfc91b621545465a0eac6ba70cca4401d4cc796e05c8098fb58a6ee36c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "89641c02-3667-498d-8a90-08222c193143",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8b/vermelho-scarlet/front-3q.png",
+    "sha256": "c2b328bae93fd8be3d038d9943d3464e723acfb48c3535ebc8408376419b2c3e"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "19408e3f-9002-4607-a358-31e351474081",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/prb/azul-boreal/front-3q.png",
+    "sha256": "cb8dda34d2f4051eb418653ecc8fa6c7c74561cd4b5362e8ec33d43ca2f0c75b"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "19408e3f-9002-4607-a358-31e351474081",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/prb/branco-summit/front-3q.png",
+    "sha256": "0a6e4a01cffd3c6a8b466e39a7ad45c03ebc455cc27bd74e47b6fedf069b235a"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "19408e3f-9002-4607-a358-31e351474081",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/prb/prata-shark/front-3q.png",
+    "sha256": "13f7bdd8286b4a8aac3f0ca061e562f9f043f613d35052d74bbef8037a00845e"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "19408e3f-9002-4607-a358-31e351474081",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/prb/preto-ouro-negro/front-3q.png",
+    "sha256": "2721573099dced04d4b139726cfea3acaaef4f40f309a7d41cb6c13f19ae73a2"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "19408e3f-9002-4607-a358-31e351474081",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/prb/vermelho-scarlet/front-3q.png",
+    "sha256": "7d8ff579d9b273083cd6d593a61eef8c68df32b8df143641683110bdb84490bc"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "abd7ce78-50b3-417e-8983-38db32a597c8",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8r/azul-boreal/front-3q.png",
+    "sha256": "92a95a63078e57288f9c61b5ab37274ffbf6e85230ef2122a4ff6bd53204668e"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "abd7ce78-50b3-417e-8983-38db32a597c8",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8r/branco-summit/front-3q.png",
+    "sha256": "f713077f56e569992f8054e11550c607f994859a6dab215c09d17570d1e3a2e1"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "abd7ce78-50b3-417e-8983-38db32a597c8",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8r/prata-shark/front-3q.png",
+    "sha256": "d4524a321999a0aa9ebad69d7193bd19a0ed1dc35db7958fcefd21c725432184"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "abd7ce78-50b3-417e-8983-38db32a597c8",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8r/preto-ouro-negro/front-3q.png",
+    "sha256": "f257763ff6adb4ea27569cc82abc98d7aceb2b8d0164a24e9eb15ed410094970"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "abd7ce78-50b3-417e-8983-38db32a597c8",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/onix-plus/2027/r8r/vermelho-scarlet/front-3q.png",
+    "sha256": "ede089c6ec24ca0324797e8303fe3764feacf40377b8fe1342e2cf888aacce0d"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "aa15f934-7108-462e-9391-ad1e7dd0a440",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/sonic/2027/r8c/azul-boreal/front-3q.png",
+    "sha256": "a95ee2e8dd228a7bd6c8a4219292ee81e6625e24ecebae7b28d609480c2f0b49"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "aa15f934-7108-462e-9391-ad1e7dd0a440",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/sonic/2027/r8c/branco-summit/front-3q.png",
+    "sha256": "d8615e47596473c5f2c32203c4cdb2ffa11cebcf28de27136b5b56378857bd9d"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "aa15f934-7108-462e-9391-ad1e7dd0a440",
+    "colorId": "3aa80f72-6569-46f3-bd48-c9cac305004e",
+    "path": "/images/vehicles/chevrolet/sonic/2027/r8c/cinza-urbano/front-3q.png",
+    "sha256": "ef1d1db53ae6200e3b7aa44ad01a48f9c33e16dd6534581b6613e290fe801ff5"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "aa15f934-7108-462e-9391-ad1e7dd0a440",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/sonic/2027/r8c/prata-shark/front-3q.png",
+    "sha256": "771247dc2af79ac7335396c1f31a6f2a17d43ecccbc3bc303df584ccf3f2881c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "aa15f934-7108-462e-9391-ad1e7dd0a440",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/sonic/2027/r8c/preto-ouro-negro/front-3q.png",
+    "sha256": "f911e4f0db7f56f8a1ffd9ac90d8a7ab13488551507909362740784103416b0b"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "aa15f934-7108-462e-9391-ad1e7dd0a440",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/sonic/2027/r8c/vermelho-scarlet/front-3q.png",
+    "sha256": "c595e616f0407e75f6e0fe4a9942fef9c35573c6f44e1b333de691a959dad2ee"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "71fd7d6e-feba-4ceb-837a-9411777ab48f",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/sonic/2027/r8d-rgd/branco-summit/front-3q.png",
+    "sha256": "cd0da08b0ff5079b0fb13cb2c3cacc6643c298297e5b38d143b3cc3270c453ee"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "71fd7d6e-feba-4ceb-837a-9411777ab48f",
+    "colorId": "3aa80f72-6569-46f3-bd48-c9cac305004e",
+    "path": "/images/vehicles/chevrolet/sonic/2027/r8d-rgd/cinza-urbano/front-3q.png",
+    "sha256": "e138261774345cb0473235f1d692c9a4eb87ac1caf6b065b28e57b38073f536f"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "71fd7d6e-feba-4ceb-837a-9411777ab48f",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/sonic/2027/r8d-rgd/vermelho-scarlet/front-3q.png",
+    "sha256": "1e59d39ec5526d78d9e603a0ff07b1f9e98506a382e701632a2decc6e65a1685"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "71fd7d6e-feba-4ceb-837a-9411777ab48f",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/sonic/2027/r8d-rgd/preto-ouro-negro/front-3q.png",
+    "sha256": "bd0b8dcde44c3f82020ac48975bca3aa0eab2cc40f819cb318c3d0748383f5fa"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "553e2d71-c1bc-4a24-9a33-34dc24250fa1",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6m/azul-boreal/front-3q.png",
+    "sha256": "7ac4bf966178e8fc8d32c84f27d7d2e767e2a5b6d26f730f6febd237d81543a5"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "553e2d71-c1bc-4a24-9a33-34dc24250fa1",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6m/branco-summit/front-3q.png",
+    "sha256": "100493fe4cc0e8da5f993c4d292607b635ae81d54e088075e1f1e1815d29eea7"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "553e2d71-c1bc-4a24-9a33-34dc24250fa1",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6m/prata-shark/front-3q.png",
+    "sha256": "afbc79ed755fdbe4e1c22493189dc424abaae080d80361ddc5875f1deb6a63a3"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "553e2d71-c1bc-4a24-9a33-34dc24250fa1",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6m/preto-ouro-negro/front-3q.png",
+    "sha256": "740474e4a04a896448bf22b12dc02a56af307d09d7f7e8de47e26ed6f2d7503b"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "553e2d71-c1bc-4a24-9a33-34dc24250fa1",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6m/cinza-ambar/front-3q.png",
+    "sha256": "e9496ae4ed3bbf35852f2892ed57184804d7841b5f45ae8b1d26d0b1fb027691"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8b8bff2b-869a-4b54-b70a-421fc4f4cf25",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6n/azul-boreal/front-3q.png",
+    "sha256": "69761e9b4bab5c968d229ab6b25a7d049cce1b589edcfae6d557ce966e62d056"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8b8bff2b-869a-4b54-b70a-421fc4f4cf25",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6n/branco-summit/front-3q.png",
+    "sha256": "aa13c782a4a8e935913205869ba752c99779754f6d291d551a8f5252b5ca4768"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8b8bff2b-869a-4b54-b70a-421fc4f4cf25",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6n/prata-shark/front-3q.png",
+    "sha256": "62528f8e255c8ab85467ad92df081bfdd361f7409519fb0641e2edc1da6a7da9"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8b8bff2b-869a-4b54-b70a-421fc4f4cf25",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6n/preto-ouro-negro/front-3q.png",
+    "sha256": "dc4d2b6ffac54c4771417efc7106a196a004373ce84f55f711557f318ad65054"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8b8bff2b-869a-4b54-b70a-421fc4f4cf25",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6n/cinza-ambar/front-3q.png",
+    "sha256": "e622fdb7d8fb4aca8296df56c45ae2380a40829a40026ef8ceab79234d977cbb"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "67024962-b98f-4520-9a97-f3f98d22562b",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6q/azul-boreal/front-3q.png",
+    "sha256": "ec6df8df23d0f91df5aceac8c27303165e246fe65a2bf41e67f953446467475e"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "67024962-b98f-4520-9a97-f3f98d22562b",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6q/branco-summit/front-3q.png",
+    "sha256": "881897583d49df3b768290face2e32feb0b33ddc63b991801acb825c2d280810"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "67024962-b98f-4520-9a97-f3f98d22562b",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6q/prata-shark/front-3q.png",
+    "sha256": "58c6f8a3631f219b11cf947334fd784c078b2591926341cba388f8fdcec449d1"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "67024962-b98f-4520-9a97-f3f98d22562b",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6q/preto-ouro-negro/front-3q.png",
+    "sha256": "bfd54315870348bf7ec1ed6dda7ac27fb3ebd90066fb5bfeca3b43e04c71c980"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "67024962-b98f-4520-9a97-f3f98d22562b",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6q/cinza-ambar/front-3q.png",
+    "sha256": "05dbbb4fa93a721714829d66d06619cdf50cbbb219d5e1adec77f0e88364f659"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "59420a51-b6ca-460d-a59a-356c381fcd45",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6r/azul-boreal/front-3q.png",
+    "sha256": "7f219d6bed11ae79cfa1bf27456ffac31b8b11dfba02e79582af19ea481535ee"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "59420a51-b6ca-460d-a59a-356c381fcd45",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6r/branco-summit/front-3q.png",
+    "sha256": "dda0d574d575f13540bbddd2532993f4aed30a0d6dd4d11159eb54de6eda9ba5"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "59420a51-b6ca-460d-a59a-356c381fcd45",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6r/prata-shark/front-3q.png",
+    "sha256": "b6bffd8732de3a12c2b8f484016e7498927b1493aaed41efe27b485418d9b958"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "59420a51-b6ca-460d-a59a-356c381fcd45",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6r/preto-ouro-negro/front-3q.png",
+    "sha256": "0e8d28596af7a3caa01ad862c859804fc95c82f28de394ccdb47a5432faf339f"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "59420a51-b6ca-460d-a59a-356c381fcd45",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6r/cinza-ambar/front-3q.png",
+    "sha256": "05dbbb4fa93a721714829d66d06619cdf50cbbb219d5e1adec77f0e88364f659"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "5c39e196-14d4-4f61-90b6-844c534179e1",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6s/azul-boreal/front-3q.png",
+    "sha256": "9d0aa30156376bdbb433ec5171171adeaa581876d85745aa0071ada856f95db9"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "5c39e196-14d4-4f61-90b6-844c534179e1",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6s/branco-summit/front-3q.png",
+    "sha256": "b51e366670b9d837004a8bb1fe166086a9c6e7fcbf6f1786b0d756661eb5d1bc"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "5c39e196-14d4-4f61-90b6-844c534179e1",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6s/prata-shark/front-3q.png",
+    "sha256": "7d14d395ce2f2ec2738b26d8d687ae73d5e7478895c27b638856c8b086b64856"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "5c39e196-14d4-4f61-90b6-844c534179e1",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6s/preto-ouro-negro/front-3q.png",
+    "sha256": "6c8cbe4e8f2d3c1901fa44d06a7989901a9eb9efed6c8d7e8e7e49a7efe24a3b"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "5c39e196-14d4-4f61-90b6-844c534179e1",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/spin/2027/r6s/cinza-ambar/front-3q.png",
+    "sha256": "94e95e889f417c577ddf528b0e85560100c4ec3280af5f38eb8ef7ac2d84f598"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "0a46f662-5c40-4022-aa92-3890f8e2f176",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8e/vermelho-scarlet/front-3q.png",
+    "sha256": "3194bde3ef4c427482ac96cb71268ffc2717ea3a872d6e0378257c87aa91697d"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "0a46f662-5c40-4022-aa92-3890f8e2f176",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8e/azul-boreal/front-3q.png",
+    "sha256": "7d0091204bd60355119aa1e8bb74b7f9ff38d26fecc2872efc7454f5b1219dc7"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "0a46f662-5c40-4022-aa92-3890f8e2f176",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8e/preto-ouro-negro/front-3q.png",
+    "sha256": "23cae2c4b11ef7e42cce06879c36639e74861b230d29de98632415c4f6cf337c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "0a46f662-5c40-4022-aa92-3890f8e2f176",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8e/branco-summit/front-3q.png",
+    "sha256": "0e6174466302aea35381d3c48cb18eb6d50f993042e48ba38edcd537c4710450"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "0a46f662-5c40-4022-aa92-3890f8e2f176",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8e/cinza-ambar/front-3q.png",
+    "sha256": "196cb82a8b25d6a87a9c7284180b95e291c836678dfb21698367e3cf1cc3c4fb"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "0a46f662-5c40-4022-aa92-3890f8e2f176",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8e/prata-shark/front-3q.png",
+    "sha256": "2c2ba22905ad66b41f0e43b85b4f51d52cb5193f389420156d45e6f42982fa9f"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e969675b-a28c-43a1-8c40-e7a667cf0dc3",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8d/branco-summit/front-3q.png",
+    "sha256": "45bef2b5895fd00e606078cefb086a8e5a8eb42710aa24fbb9fe412e4c225a37"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e969675b-a28c-43a1-8c40-e7a667cf0dc3",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8d/cinza-ambar/front-3q.png",
+    "sha256": "5c148eea0fa57e942289fa74b3dab033f951f51c8fc4f938a49bc91514902b1f"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e969675b-a28c-43a1-8c40-e7a667cf0dc3",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8d/prata-shark/front-3q.png",
+    "sha256": "76076e732d66953efae57bff8f8fdcf88279ead4eebcba31a3d46e43c864d19f"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e969675b-a28c-43a1-8c40-e7a667cf0dc3",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8d/preto-ouro-negro/front-3q.png",
+    "sha256": "249e51424a74221edb1e9aae5d17b839fe63af6775c8f6a940dde416353bdea1"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e969675b-a28c-43a1-8c40-e7a667cf0dc3",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8d/vermelho-scarlet/front-3q.png",
+    "sha256": "b2dda821b8286e7800f4f16f1faf71b8436d171571101f04b1c296246d3ac328"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e969675b-a28c-43a1-8c40-e7a667cf0dc3",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8d/azul-boreal/front-3q.png",
+    "sha256": "de0f5f8f814a4ab19d567f0b9ef9cc1865a3180ef1e062b9b9355f766f8dc69b"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "741a73a6-894b-4b15-b6e3-3c88a89136f2",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8f/branco-summit/front-3q.png",
+    "sha256": "6524488d99cd0c1810eb6dacefa1a89a7b507fe8f5d0fed95f1343622b0cd617"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "741a73a6-894b-4b15-b6e3-3c88a89136f2",
+    "colorId": "3aa80f72-6569-46f3-bd48-c9cac305004e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8f/cinza-urbano/front-3q.png",
+    "sha256": "9a51133b908aa88fcfcffd8e790c3fda569514e48d71e01eab66982c9660e8ee"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "741a73a6-894b-4b15-b6e3-3c88a89136f2",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8f/cinza-ambar/front-3q.png",
+    "sha256": "4ed7fb7aaad8b8741fb800416a8a53f982bad519a4bccd026262666ef8a4c607"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "741a73a6-894b-4b15-b6e3-3c88a89136f2",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8f/prata-shark/front-3q.png",
+    "sha256": "0da90de628cbe5e181b2c34f2ac831334c7d01993ea02c738d9fe4bc41f98ae1"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "741a73a6-894b-4b15-b6e3-3c88a89136f2",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8f/preto-ouro-negro/front-3q.png",
+    "sha256": "80e294133d3ef07913c7722994e3153d2bdbb5f33ae665b614ae1647c5a52acb"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "741a73a6-894b-4b15-b6e3-3c88a89136f2",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8f/vermelho-scarlet/front-3q.png",
+    "sha256": "821f9b367612d16ac52c1f192bcd8cd8ea0254f09e4de262617571b092a1694a"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "741a73a6-894b-4b15-b6e3-3c88a89136f2",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8f/azul-boreal/front-3q.png",
+    "sha256": "b55840ef2ffd449b56bf9c57ad0d85346a35760de92a80e8f760dfa9dbb19224"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "172c5385-71c1-4124-b79c-d26f3419d335",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8i/branco-summit/front-3q.png",
+    "sha256": "6c26f0298210696aa798e3ad279209a94f1ea1d318ec4e0f5dbd4f2707d89b36"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "172c5385-71c1-4124-b79c-d26f3419d335",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8i/cinza-ambar/front-3q.png",
+    "sha256": "678f00a1ba7783596c95cafd63ba970e46eb69da799ec28b08cc226b8e9d61ff"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "172c5385-71c1-4124-b79c-d26f3419d335",
+    "colorId": "3aa80f72-6569-46f3-bd48-c9cac305004e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8i/cinza-urbano/front-3q.png",
+    "sha256": "387b16747a2f83b77f2e36a57cfccebbafd21f7a09830bd79883ed071a984070"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "172c5385-71c1-4124-b79c-d26f3419d335",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8i/prata-shark/front-3q.png",
+    "sha256": "69e8473b8f70b2faa6c935d1fdf44baff8a3f68773407e719984e6cc51059b42"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "172c5385-71c1-4124-b79c-d26f3419d335",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8i/preto-ouro-negro/front-3q.png",
+    "sha256": "7534d706511c5df6bbbf5e07cdcdb7c5e803cbb623a1d9874cf6a561fb6dba5c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "172c5385-71c1-4124-b79c-d26f3419d335",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8i/vermelho-scarlet/front-3q.png",
+    "sha256": "611ececeadf78930aa5c48d397c88914e1d5e7d316f165ae7648cad9b1cf4cfe"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "172c5385-71c1-4124-b79c-d26f3419d335",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/tracker/2027/r8i/azul-boreal/front-3q.png",
+    "sha256": "17661ab766a72f53442855d15d0ac2b5b13833b34a89cacfbe01399b31abd0c2"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "db370383-b07e-465f-83ac-c98d0eb2b490",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/rg0/branco-summit/front-3q.png",
+    "sha256": "5e2790e8f095585dfc48e34d9685f14c162a1617f56986c0e6a973ed393068c7"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "db370383-b07e-465f-83ac-c98d0eb2b490",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/tracker/2027/rg0/cinza-ambar/front-3q.png",
+    "sha256": "61d50de4398af26dc6103fe401cee8b2500f4c6eaff4bf30a421df2998c8fec0"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "db370383-b07e-465f-83ac-c98d0eb2b490",
+    "colorId": "3aa80f72-6569-46f3-bd48-c9cac305004e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/rg0/cinza-urbano/front-3q.png",
+    "sha256": "086b2a31c0dbd2db86913474d96721c45077a0bf01394ccc974dc86579ae2713"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "db370383-b07e-465f-83ac-c98d0eb2b490",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/tracker/2027/rg0/preto-ouro-negro/front-3q.png",
+    "sha256": "74bf932d77cd2418de1839056bc44770dbc6726b5165aab2cf60f4ffb08e45af"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "db370383-b07e-465f-83ac-c98d0eb2b490",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/tracker/2027/rg0/vermelho-scarlet/front-3q.png",
+    "sha256": "7b4c6d6a54f81eb6ad59af67cf8cc4d05c72d8b8a0d7d00d5e64a131b46f7439"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "9c82b3ab-68c0-4d97-9309-cca6af8373ca",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfa/preto-ouro-negro/front-3q.png",
+    "sha256": "b0a8b5855118b4785b6728fb1b091b81df6e788a1042c632552702cdbbfb85de"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "9c82b3ab-68c0-4d97-9309-cca6af8373ca",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfa/vermelho-scarlet/front-3q.png",
+    "sha256": "81cad4da93c6ec03618f5fb2b77b2cd1cfb9e7e227e9d497a348bb0468a8481d"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "9c82b3ab-68c0-4d97-9309-cca6af8373ca",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfa/cinza-ambar/front-3q.png",
+    "sha256": "2864b99264a818ac97834066850807c4979af6d15eff7230ec6d3a2ca65567be"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "9c82b3ab-68c0-4d97-9309-cca6af8373ca",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfa/branco-summit/front-3q.png",
+    "sha256": "eab56eea85e8620ddaf8d0f79c1673a9d89d1f2a93bb98e19bac9cfbc87a356f"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "9c82b3ab-68c0-4d97-9309-cca6af8373ca",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfa/azul-boreal/front-3q.png",
+    "sha256": "1beec78e364041ffcb6baa67f374246a488150d756c3a10a2538f3de9699fee9"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "9c82b3ab-68c0-4d97-9309-cca6af8373ca",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfa/prata-shark/front-3q.png",
+    "sha256": "fcdc1824fa50c1c4093551f8d932a93394501fe1690d75d835c5322b5739c354"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e435d476-ca3f-4f2c-991c-c92f4054ed0c",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfc/azul-boreal/front-3q.png",
+    "sha256": "320093c80d836132df0c7e78b36e7d45f157ebf249af06c10a56bd490a52ca59"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e435d476-ca3f-4f2c-991c-c92f4054ed0c",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfc/vermelho-scarlet/front-3q.png",
+    "sha256": "2348de72fbe43c0cbb2e7216204f3e9277f6bfe3dc470820108dad3dd64d2c79"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e435d476-ca3f-4f2c-991c-c92f4054ed0c",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfc/cinza-ambar/front-3q.png",
+    "sha256": "43e87d68349a7c44739fe47ee4695bd45cbfa4565c270692f1e9225e5f84c287"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e435d476-ca3f-4f2c-991c-c92f4054ed0c",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfc/branco-summit/front-3q.png",
+    "sha256": "06324e9e0016cbbe55981e53d891d67fbd60f3d48fac0b35a99ff66de0410e91"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e435d476-ca3f-4f2c-991c-c92f4054ed0c",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfc/prata-shark/front-3q.png",
+    "sha256": "0ec0561070a3ec39aac9c86ddf9b43e97a3e6592a48ee8fa4e9070fdfb8384ca"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "e435d476-ca3f-4f2c-991c-c92f4054ed0c",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfc/preto-ouro-negro/front-3q.png",
+    "sha256": "1be32a2554f7a7f3a0271d1f3fb240ad0996495f3e03051dfafbc3fa3030068d"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "15decde1-a34c-42f0-81b9-dff4d02b6679",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfd/prata-shark/front-3q.png",
+    "sha256": "766336ead6e1058d6396ad9a19ce04fb6245a96c0558ce12a05afad6e0b7ba30"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "15decde1-a34c-42f0-81b9-dff4d02b6679",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfd/branco-summit/front-3q.png",
+    "sha256": "4d02ae4266c8c87d385c143305e5867c42a8a89d4f08b576bcb2eb1301d1e47f"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "15decde1-a34c-42f0-81b9-dff4d02b6679",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfd/azul-boreal/front-3q.png",
+    "sha256": "89f0c0788f761f3b2b3ca9cf3e7124e6783abb94e1e62efd27776c1c2c642e6e"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "15decde1-a34c-42f0-81b9-dff4d02b6679",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfd/preto-ouro-negro/front-3q.png",
+    "sha256": "c71f26e211ee1c151d1334ac06121cbdcbf3c12d86fa8a5fd77a4e2ab5047758"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "15decde1-a34c-42f0-81b9-dff4d02b6679",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfd/vermelho-scarlet/front-3q.png",
+    "sha256": "98cfb6944e566b6e2bf2de2e1e3a79fa007ccb5237d0bce11cdcf06fe1e2b538"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "15decde1-a34c-42f0-81b9-dff4d02b6679",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfd/cinza-ambar/front-3q.png",
+    "sha256": "1a4e13f09041224ffc317f3477b4111afc0e4f052a5ba52387ac684c7464cd4c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "fc1ff49b-5298-4e16-a4d8-7cf7e61d95e0",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfe/branco-summit/front-3q.png",
+    "sha256": "4ea9d6dc95bc5bb862c4cd74be7dc46401c0d3cf890e15a708c49d5067d7e20f"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "fc1ff49b-5298-4e16-a4d8-7cf7e61d95e0",
+    "colorId": "5ec8d6d6-5a32-4453-92e7-b810769e5dd6",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfe/azul-boreal/front-3q.png",
+    "sha256": "90f3a5e6271daf1debed6f94b881270877855486facbc2499395c9b17a57da55"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "fc1ff49b-5298-4e16-a4d8-7cf7e61d95e0",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfe/prata-shark/front-3q.png",
+    "sha256": "80b84fff4fb810d5ea46df24af14bb543c9e182d9462910adcfe70ba6fc15a24"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "fc1ff49b-5298-4e16-a4d8-7cf7e61d95e0",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfe/preto-ouro-negro/front-3q.png",
+    "sha256": "69ff3ce5f4763a4e4ca4758ecc298922b34f15e29a35e94fe3f47b5389836675"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "fc1ff49b-5298-4e16-a4d8-7cf7e61d95e0",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfe/vermelho-scarlet/front-3q.png",
+    "sha256": "9021d8929fe1fd05a5c1943cb3e0c144eae1e556c429e60e3d8cd4ddb5bedc38"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "fc1ff49b-5298-4e16-a4d8-7cf7e61d95e0",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/montana/2027/rfe/cinza-ambar/front-3q.png",
+    "sha256": "6c19d5d460c9f8b7938115bbfe678cafb237d99efb5c690b29bfef48511c482d"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "2f95e47d-4d3a-4adb-a5ff-bd1036fd70b1",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/s10/2027/r9d/prata-shark/front-3q.png",
+    "sha256": "c98ae33c957d6f95017ac13b665f785616ceb6bcdcab1b9cbad0b7b9b460201a"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8c3813f5-5fd5-404c-a5ad-bfa85a8456ca",
+    "colorId": "b20c7400-58b5-4e81-92d1-f29c508a6505",
+    "path": "/images/vehicles/chevrolet/s10/2027/r9i/cinza-topazio/front-3q.png",
+    "sha256": "94d2d32d06aa7c3a429b9c256b046aadcb6b586db10e96ff8c5c7dc780cad1f4"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8c3813f5-5fd5-404c-a5ad-bfa85a8456ca",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/s10/2027/r9i/cinza-ambar/front-3q.png",
+    "sha256": "80ac4f142f2ecd2745c9d97a82170da7f905c0b5924f10438e66a9c96dca4316"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8c3813f5-5fd5-404c-a5ad-bfa85a8456ca",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/s10/2027/r9i/branco-summit/front-3q.png",
+    "sha256": "56d0b6df74b41c3be8b3570663723cfc2891c2476cace3c045def8d200fbacae"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8c3813f5-5fd5-404c-a5ad-bfa85a8456ca",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/s10/2027/r9i/vermelho-scarlet/front-3q.png",
+    "sha256": "19d63d01cd5900f0f43a85f4a1f1e3c3ff254a7efc5d300037b60785bfac6468"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8c3813f5-5fd5-404c-a5ad-bfa85a8456ca",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/s10/2027/r9i/preto-ouro-negro/front-3q.png",
+    "sha256": "757d9c9a13be748f175f08c55f7bcf1cdbd46a0ed4d850a245b5a317da5917e8"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "8c3813f5-5fd5-404c-a5ad-bfa85a8456ca",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/s10/2027/r9i/prata-shark/front-3q.png",
+    "sha256": "629d68d1eb8f1b97b6eceb4e291809ca9d8ba8187b55fced4521ec5956b02152"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "1d3676d4-3cf1-42af-b632-d8fd380e3d0d",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7f/preto-ouro-negro/front-3q.png",
+    "sha256": "d4c198ef7dc5bc718a2acf0fc7309d466a5dd02f9f96c6108c2c585f4bbc3865"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "1d3676d4-3cf1-42af-b632-d8fd380e3d0d",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7f/prata-shark/front-3q.png",
+    "sha256": "15ceb1ce3566e5da94eef1ff58024ec3aca0cb54808df7d19cf26850fba310b7"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "1d3676d4-3cf1-42af-b632-d8fd380e3d0d",
+    "colorId": "b20c7400-58b5-4e81-92d1-f29c508a6505",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7f/cinza-topazio/front-3q.png",
+    "sha256": "5eefec5dd4043a72b82335aa141d25f06913dfa3c4bf859f16084a0e0114489a"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "1d3676d4-3cf1-42af-b632-d8fd380e3d0d",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7f/cinza-ambar/front-3q.png",
+    "sha256": "9be931e1f42923ec1599e9663145e03bab3df1b3109d755f9c4e264a8ec6a8e7"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "1d3676d4-3cf1-42af-b632-d8fd380e3d0d",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7f/branco-summit/front-3q.png",
+    "sha256": "de2461f7c83643b11ca2b31ea0b07e2e8f17782d83b379befd5080001d11c6f3"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "1d3676d4-3cf1-42af-b632-d8fd380e3d0d",
+    "colorId": "9048772b-80bb-4b4a-9d5c-92036e9e8a45",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7f/branco-dunas/front-3q.png",
+    "sha256": "9c83a59cb04c300fd843753f53b69b5f99ff420ec4dbc41757c4a0d4bd358a48"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "1d3676d4-3cf1-42af-b632-d8fd380e3d0d",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7f/vermelho-scarlet/front-3q.png",
+    "sha256": "4c85a047f5b688b7f861313bbe4bd53595ba7d853cb7280b2236d1abe0e2dda9"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3bac36aa-e124-4fb8-ba57-73c79f44ba15",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7n/preto-ouro-negro/front-3q.png",
+    "sha256": "bb4bac5397c7227c853dec51766d9f41cf9067513f670f1de026fab6218dc333"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3bac36aa-e124-4fb8-ba57-73c79f44ba15",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7n/prata-shark/front-3q.png",
+    "sha256": "c0af8e25804cddf822ef54665908fa4ab53fc8dc96ee70f707518426f34e81a7"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3bac36aa-e124-4fb8-ba57-73c79f44ba15",
+    "colorId": "b20c7400-58b5-4e81-92d1-f29c508a6505",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7n/cinza-topazio/front-3q.png",
+    "sha256": "28aad50271e9eb8b76baa41613f2d077afde67a041a7f5da6f652919ce4cddf5"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3bac36aa-e124-4fb8-ba57-73c79f44ba15",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7n/cinza-ambar/front-3q.png",
+    "sha256": "72a1eeb78baa814aac397df438dd069fc6d4686d0fcbaae835de0ecd5d114820"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3bac36aa-e124-4fb8-ba57-73c79f44ba15",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7n/branco-summit/front-3q.png",
+    "sha256": "2fcef9a3a7f7cc325624aebe28b9de65d41e6bb5a384b717f8f7ace26c8507a8"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3bac36aa-e124-4fb8-ba57-73c79f44ba15",
+    "colorId": "9048772b-80bb-4b4a-9d5c-92036e9e8a45",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7n/branco-dunas/front-3q.png",
+    "sha256": "ab30996e493234783e6a2c1001bcaf35f3607f3ef19a56f2f8c4ca8c52d7d346"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "3bac36aa-e124-4fb8-ba57-73c79f44ba15",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7n/vermelho-scarlet/front-3q.png",
+    "sha256": "cf3d89314dca7b3d86690a0dba621e23f4045dcc4505def1ce800d92457def70"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "4229c35a-c2d9-4b2b-9b05-8c14c5167415",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/s10/2027/pqq/preto-ouro-negro/front-3q.png",
+    "sha256": "0324be5b4fffb6feaafb10556dc31768ad94185ba4fe0814b13ff0112c08bc07"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "4229c35a-c2d9-4b2b-9b05-8c14c5167415",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/s10/2027/pqq/prata-shark/front-3q.png",
+    "sha256": "22e9ef8ae07c7c461c4ca045334986abe927211832c281344ffa7d953cfda0f7"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "4229c35a-c2d9-4b2b-9b05-8c14c5167415",
+    "colorId": "b20c7400-58b5-4e81-92d1-f29c508a6505",
+    "path": "/images/vehicles/chevrolet/s10/2027/pqq/cinza-topazio/front-3q.png",
+    "sha256": "fecdfb50b6bfdccbe071eff506a8bd0c68baeabe8924ac2ae748b846f780a93a"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "4229c35a-c2d9-4b2b-9b05-8c14c5167415",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/s10/2027/pqq/cinza-ambar/front-3q.png",
+    "sha256": "5739edfd650a2ab896e50b92fe7ecd6014d397839b349da9c6f87a2e87fe78df"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "4229c35a-c2d9-4b2b-9b05-8c14c5167415",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/s10/2027/pqq/branco-summit/front-3q.png",
+    "sha256": "e2c3293f5a444c57480ae40ea200b2e99030a1b0db877b917e3d790d486ad48a"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "4229c35a-c2d9-4b2b-9b05-8c14c5167415",
+    "colorId": "9048772b-80bb-4b4a-9d5c-92036e9e8a45",
+    "path": "/images/vehicles/chevrolet/s10/2027/pqq/branco-dunas/front-3q.png",
+    "sha256": "fa4b19bdfcd345f5bacdaa9cc95887d7faff18b5e5bf82b30266e3d6ce4c8fcb"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "4229c35a-c2d9-4b2b-9b05-8c14c5167415",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/s10/2027/pqq/vermelho-scarlet/front-3q.png",
+    "sha256": "dfce6fff9523d06847ae7cf01a66c57bcfd91dfe16a6a09767123291dc31dda5"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "ac5f6e3f-aa3a-464a-9bd4-f593fe5f906b",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/s10/2027/r6v/preto-ouro-negro/front-3q.png",
+    "sha256": "8650f0943a48eba382466ac62428313fb4ee066c8505ddb818b32b3aa263b640"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "ac5f6e3f-aa3a-464a-9bd4-f593fe5f906b",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/s10/2027/r6v/prata-shark/front-3q.png",
+    "sha256": "e0c2fd360bc0d8df278762043a1278593b440ff6f4734ddd715fa06125929802"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "ac5f6e3f-aa3a-464a-9bd4-f593fe5f906b",
+    "colorId": "b20c7400-58b5-4e81-92d1-f29c508a6505",
+    "path": "/images/vehicles/chevrolet/s10/2027/r6v/cinza-topazio/front-3q.png",
+    "sha256": "c23d22d5d74fbfee7a2a53b45a8c299b7ec682c29b56d840c971ab21b32f61d3"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "ac5f6e3f-aa3a-464a-9bd4-f593fe5f906b",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/s10/2027/r6v/cinza-ambar/front-3q.png",
+    "sha256": "7b8f585c280ee47d48bbd235a562b62e7010c539aff30e2fc90e64a2c89ba4a4"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "ac5f6e3f-aa3a-464a-9bd4-f593fe5f906b",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/s10/2027/r6v/branco-summit/front-3q.png",
+    "sha256": "9e6f486da9d26bf025f67fa7454b204c60423318a29470e04d461c5cfc929b31"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "ac5f6e3f-aa3a-464a-9bd4-f593fe5f906b",
+    "colorId": "9048772b-80bb-4b4a-9d5c-92036e9e8a45",
+    "path": "/images/vehicles/chevrolet/s10/2027/r6v/branco-dunas/front-3q.png",
+    "sha256": "1fdfe46772ecdb4035f8b76ac7c8ffac08dc03cf5be9c8ed4e97a65cb1c7db84"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "ac5f6e3f-aa3a-464a-9bd4-f593fe5f906b",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/s10/2027/r6v/vermelho-scarlet/front-3q.png",
+    "sha256": "67d8ef6b287ad148b99881baee2d4deab4cdacba012fef93d19b373c79ae0f3b"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "d8282637-9438-4e66-ae4e-6cba2a08f161",
+    "colorId": "a97f091b-f9a6-4824-95fe-af519b90ff22",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7u/vermelho-scarlet/front-3q.png",
+    "sha256": "1935290e8b486a6f28845e54b429eeddc006f1ab10833ec451ca02e3c8c0d47c"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "d8282637-9438-4e66-ae4e-6cba2a08f161",
+    "colorId": "44b0a602-d2b0-4bf7-a0f8-4b1151378e8e",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7u/preto-ouro-negro/front-3q.png",
+    "sha256": "704897e74157e8dd68bc974b0e5200622f521f6564b10b8d5b34db63a100ba01"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "d8282637-9438-4e66-ae4e-6cba2a08f161",
+    "colorId": "72d4151d-9bd0-4f68-93ce-3c87a839f606",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7u/prata-shark/front-3q.png",
+    "sha256": "660c25734e7563fea7183d8c2da88be2f441249ad9362cc3e98d2ed121b48afa"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "d8282637-9438-4e66-ae4e-6cba2a08f161",
+    "colorId": "b20c7400-58b5-4e81-92d1-f29c508a6505",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7u/cinza-topazio/front-3q.png",
+    "sha256": "8a3549b1f6b844c7c8c4a907fcb2d315c479c13864bc9881c8de5681b19acf34"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "d8282637-9438-4e66-ae4e-6cba2a08f161",
+    "colorId": "91b7a101-ed15-4828-9630-cffd979052c6",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7u/cinza-ambar/front-3q.png",
+    "sha256": "018b0886629dd00f59fa5470cda2cb34e6d2cfd084ba6410ca0a4a65b5620646"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "d8282637-9438-4e66-ae4e-6cba2a08f161",
+    "colorId": "8e552c69-e52c-433d-bf90-e8732c9cb56e",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7u/branco-summit/front-3q.png",
+    "sha256": "a3f7bb209bcd907e1954d6e9378ed91f107c211d93db6804418f609d1b36ec03"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "d8282637-9438-4e66-ae4e-6cba2a08f161",
+    "colorId": "9048772b-80bb-4b4a-9d5c-92036e9e8a45",
+    "path": "/images/vehicles/chevrolet/s10/2027/r7u/branco-dunas/front-3q.png",
+    "sha256": "0f2ea00947d717b33f9e225818c559aad523cc51f186cad0f504c66cfc2675c2"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "27362fc1-f4fc-40e2-bea5-eb028d8e116b",
+    "colorId": "5ab9e550-1da8-4095-86f3-e53ac0aed3da",
+    "path": "/images/vehicles/chevrolet/captiva-ev/2026/pea/azul-buzios/front-3q.png",
+    "sha256": "982edf10046cd848e4e9e5eab61f2321c5f8d1f7c4f9fb2089b9400a0b85b141"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "27362fc1-f4fc-40e2-bea5-eb028d8e116b",
+    "colorId": "5d90fcbb-62e3-492a-8f3b-be9cca325817",
+    "path": "/images/vehicles/chevrolet/captiva-ev/2026/pea/branco-lencois/front-3q.png",
+    "sha256": "7145bf729a8e3a54efa3a0a7432ccbf005859e6acb9a301ed403836398e3eba5"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "27362fc1-f4fc-40e2-bea5-eb028d8e116b",
+    "colorId": "7ed347e0-2506-4c80-b887-9c264971fad0",
+    "path": "/images/vehicles/chevrolet/captiva-ev/2026/pea/cinza-diamantina/front-3q.png",
+    "sha256": "89959827be5dd5e7075edda5d8cf718669e6487544b84e582df4faa6c2404a9a"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "27362fc1-f4fc-40e2-bea5-eb028d8e116b",
+    "colorId": "b338e710-f59b-46ea-92a3-4f71f2f1c83b",
+    "path": "/images/vehicles/chevrolet/captiva-ev/2026/pea/dourado-jeri/front-3q.png",
+    "sha256": "3b3b61246b64dc51fac23f5ab48780e04fac6e88e62907503e23bcf65644e897"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "cd5b8d79-6086-4379-b898-96edc8826f7d",
+    "colorId": "c357da0e-9ca4-45c3-91b2-b565e6ad0048",
+    "path": "/images/vehicles/chevrolet/spark-euv/2026/pea/branco-cupuacu/front-3q.png",
+    "sha256": "f33d6faa8319f3849a331ea29e6d1056c3420ac93e29364f5c55fd70614b45fd"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "cd5b8d79-6086-4379-b898-96edc8826f7d",
+    "colorId": "e2145a96-3132-4235-b610-7c478b127b87",
+    "path": "/images/vehicles/chevrolet/spark-euv/2026/pea/preto-rio-negro/front-3q.png",
+    "sha256": "7877c5260e141f63b8cd218f90cab94e377bf65864da03d86960862b1cfc678e"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "cd5b8d79-6086-4379-b898-96edc8826f7d",
+    "colorId": "265690d0-4e18-4079-952a-bd099e0c7d06",
+    "path": "/images/vehicles/chevrolet/spark-euv/2026/pea/azul-anil/front-3q.png",
+    "sha256": "c4f484593b0cf0c5af9243aea84ee6f5c55d5783b277d666ecd6590599bd5735"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "cd5b8d79-6086-4379-b898-96edc8826f7d",
+    "colorId": "7e79cb64-1462-4d2e-99db-5d4d155b8694",
+    "path": "/images/vehicles/chevrolet/spark-euv/2026/pea/azul-atlantico/front-3q.png",
+    "sha256": "7de7b86261abe367d826151a91e17f2f5703c31ffea37421d0f73e4bbce3b590"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "cd5b8d79-6086-4379-b898-96edc8826f7d",
+    "colorId": "c7fe2422-ff7b-4add-937e-25a44a545c8c",
+    "path": "/images/vehicles/chevrolet/spark-euv/2026/pea/amarelo-canario/front-3q.png",
+    "sha256": "8f5ec5bcccda9001a9b783fd7770c8dc96d77aa2b22fc060bb12b9ccfa5dd52b"
+  },
+  {
+    "brand": "chevrolet",
+    "version": "cd5b8d79-6086-4379-b898-96edc8826f7d",
+    "colorId": "216a77de-afbc-436b-a7af-5a5849cf0636",
+    "path": "/images/vehicles/chevrolet/spark-euv/2026/pea/cinza-redentor/front-3q.png",
+    "sha256": "1c3f533530cb6da9b7f430881ea1ced35cc05a94fb8b61bcbfe3a00fb6659b18"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf3pb5-1",
+    "colorId": "vw-t-cross-2027-bf3pb5-1-paint-0",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF3PB5/K2K2/front-3q.png",
+    "sha256": "f25843e8369d3c0589eca35485fa3665482603f625144ae90dfabb15a99d0002"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf3pb5-1",
+    "colorId": "vw-t-cross-2027-bf3pb5-1-paint-1",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF3PB5/A1A1/front-3q.png",
+    "sha256": "6271a2a09cf59ba731692dedfa673e9fe41e4f587da4765a1895519f8b467edb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf3pb5-1",
+    "colorId": "vw-t-cross-2027-bf3pb5-1-paint-2",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF3PB5/0Q0Q/front-3q.png",
+    "sha256": "8355a2d5c4e795288ffc6e7af268c00abaf914826914422773ada7033ce55b9d"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf32b5-0",
+    "colorId": "vw-t-cross-2027-bf32b5-0-paint-0",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF32B5/A1A1/front-3q.png",
+    "sha256": "071e69db2548310752f0afef7ece4ab7a6a2fd5c3f0c0414ba12ab5cff3334e6"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf32b5-0",
+    "colorId": "vw-t-cross-2027-bf32b5-0-paint-1",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF32B5/0Q0Q/front-3q.png",
+    "sha256": "a303d5136e33b22464928cd53c7f52249c009ec281cc383176396247e50a5bb2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf32b5-0",
+    "colorId": "vw-t-cross-2027-bf32b5-0-paint-2",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF32B5/2R2R/front-3q.png",
+    "sha256": "d4d764c104cac7e201bc2e3154f82570ae98b295b00e896b07a12596dbaff896"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf32b5-0",
+    "colorId": "vw-t-cross-2027-bf32b5-0-paint-3",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF32B5/K2K2/front-3q.png",
+    "sha256": "61bbf2e32aee59437ab6aeb12488eafa67f57ab04e23f18399f37363253cb457"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf32b5-0",
+    "colorId": "vw-t-cross-2027-bf32b5-0-paint-4",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF32B5/5T5T/front-3q.png",
+    "sha256": "077bdb5377c34fc01e0924850bd3106bebf0050cdbf2bca9185dccec2b1b5a95"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf33b5-0",
+    "colorId": "vw-t-cross-2027-bf33b5-0-paint-0",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF33B5/A1A1/front-3q.png",
+    "sha256": "c0e094eecc2587a3a77ddafd844a5bcb168b9123e2d49d96399a30fe86d1b547"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf33b5-0",
+    "colorId": "vw-t-cross-2027-bf33b5-0-paint-1",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF33B5/0Q0Q/front-3q.png",
+    "sha256": "578964954ce904c5a548285de7b9d38088cbe8c7943f8d507c7b1d35e650eedf"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf33b5-0",
+    "colorId": "vw-t-cross-2027-bf33b5-0-paint-2",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF33B5/2R2R/front-3q.png",
+    "sha256": "40eb17eb8f80b3fefbab678880cc7fbab249e0a980ad395b2b72c8a781347cd5"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf33b5-0",
+    "colorId": "vw-t-cross-2027-bf33b5-0-paint-3",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF33B5/K2K2/front-3q.png",
+    "sha256": "3307b3aa39e6b28d877370ffb35aef76208df734c1d453b47300f499f003a76f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf33b5-0",
+    "colorId": "vw-t-cross-2027-bf33b5-0-paint-4",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF33B5/5T5T/front-3q.png",
+    "sha256": "8b138b6c47dae2cb7e0d04c42ffd903ffb4ac8f84afa802a9a33c9b3e210e955"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf34n3-0",
+    "colorId": "vw-t-cross-2027-bf34n3-0-paint-0",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF34N3/A1A1/front-3q.png",
+    "sha256": "742b4824122bfe9e0a85b8e72ce80cdb69b2bd95a22071aa90a5cb374bdecc6e"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf34n3-0",
+    "colorId": "vw-t-cross-2027-bf34n3-0-paint-1",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF34N3/0Q0Q/front-3q.png",
+    "sha256": "996b6b2e1bc6ea3ff76a7d0792e066582b9e23c328c6308fa204eabaffa7fdb8"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf34n3-0",
+    "colorId": "vw-t-cross-2027-bf34n3-0-paint-2",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF34N3/2R2R/front-3q.png",
+    "sha256": "6888181eecd5393b0c1ca3552635c54db8c0715a4eef278546e24753899afebf"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf34n3-0",
+    "colorId": "vw-t-cross-2027-bf34n3-0-paint-3",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF34N3/K2K2/front-3q.png",
+    "sha256": "b9e4a98b14a3975f9156991991121d6de1e42938585ed744947da48e9289fefb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf34n3-0",
+    "colorId": "vw-t-cross-2027-bf34n3-0-paint-4",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF34N3/5T5T/front-3q.png",
+    "sha256": "7ad55f11cbf7eda401e3e04c7f4d54dc32a206c53b7cf3b811c4866e39fd25fc"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf3xn3-0",
+    "colorId": "vw-t-cross-2027-bf3xn3-0-paint-1",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF3XN3/0QA1/front-3q.png",
+    "sha256": "1412611d49a2703c70850c6761ce01c09e1d7ac9902f7bfe9dd55575e1357eea"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf3xn3-0",
+    "colorId": "vw-t-cross-2027-bf3xn3-0-paint-2",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF3XN3/2RA1/front-3q.png",
+    "sha256": "21c23c6ec8a566f925dd86386f60e29c8fde5b7b59a8e1b97ad029e58c874cab"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf3xn3-0",
+    "colorId": "vw-t-cross-2027-bf3xn3-0-paint-3",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF3XN3/6UA1/front-3q.png",
+    "sha256": "079ed6908d61a211107deed0c1784e2fb3a7d9d476c998a198ee75e608215fb6"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2027-bf3xn3-0",
+    "colorId": "vw-t-cross-2027-bf3xn3-0-paint-4",
+    "path": "/images/vehicles/volkswagen/t-cross/2027/BF3XN3/3XA1/front-3q.png",
+    "sha256": "8d81402287395f20464c77f68d4c5c30632c78178ebcba358f315eede258dc1b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf3pb3-0",
+    "colorId": "vw-t-cross-2026-bf3pb3-0-paint-0",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF3PB3/K2K2/front-3q.png",
+    "sha256": "f25843e8369d3c0589eca35485fa3665482603f625144ae90dfabb15a99d0002"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf3pb3-0",
+    "colorId": "vw-t-cross-2026-bf3pb3-0-paint-1",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF3PB3/0Q0Q/front-3q.png",
+    "sha256": "8355a2d5c4e795288ffc6e7af268c00abaf914826914422773ada7033ce55b9d"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf3pb3-0",
+    "colorId": "vw-t-cross-2026-bf3pb3-0-paint-2",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF3PB3/A1A1/front-3q.png",
+    "sha256": "6271a2a09cf59ba731692dedfa673e9fe41e4f587da4765a1895519f8b467edb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf32b3-2",
+    "colorId": "vw-t-cross-2026-bf32b3-2-paint-0",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF32B3/A1A1/front-3q.png",
+    "sha256": "071e69db2548310752f0afef7ece4ab7a6a2fd5c3f0c0414ba12ab5cff3334e6"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf32b3-2",
+    "colorId": "vw-t-cross-2026-bf32b3-2-paint-1",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF32B3/0Q0Q/front-3q.png",
+    "sha256": "a303d5136e33b22464928cd53c7f52249c009ec281cc383176396247e50a5bb2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf32b3-2",
+    "colorId": "vw-t-cross-2026-bf32b3-2-paint-2",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF32B3/6K6K/front-3q.png",
+    "sha256": "3405017a27a6c3e2a5e227d67aa78d53bea3f15820eafa7d0da08739dbc91d93"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf32b3-2",
+    "colorId": "vw-t-cross-2026-bf32b3-2-paint-3",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF32B3/2R2R/front-3q.png",
+    "sha256": "d4d764c104cac7e201bc2e3154f82570ae98b295b00e896b07a12596dbaff896"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf32b3-2",
+    "colorId": "vw-t-cross-2026-bf32b3-2-paint-4",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF32B3/5T5T/front-3q.png",
+    "sha256": "077bdb5377c34fc01e0924850bd3106bebf0050cdbf2bca9185dccec2b1b5a95"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf32b3-2",
+    "colorId": "vw-t-cross-2026-bf32b3-2-paint-5",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF32B3/K2K2/front-3q.png",
+    "sha256": "61bbf2e32aee59437ab6aeb12488eafa67f57ab04e23f18399f37363253cb457"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf33b3-1",
+    "colorId": "vw-t-cross-2026-bf33b3-1-paint-0",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF33B3/A1A1/front-3q.png",
+    "sha256": "c0e094eecc2587a3a77ddafd844a5bcb168b9123e2d49d96399a30fe86d1b547"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf33b3-1",
+    "colorId": "vw-t-cross-2026-bf33b3-1-paint-1",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF33B3/0Q0Q/front-3q.png",
+    "sha256": "578964954ce904c5a548285de7b9d38088cbe8c7943f8d507c7b1d35e650eedf"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf33b3-1",
+    "colorId": "vw-t-cross-2026-bf33b3-1-paint-2",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF33B3/6K6K/front-3q.png",
+    "sha256": "15b735e64fb97272321e7a5c91d132b941c2aeefb04b8f9019cca4724d1645f2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf33b3-1",
+    "colorId": "vw-t-cross-2026-bf33b3-1-paint-3",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF33B3/2R2R/front-3q.png",
+    "sha256": "40eb17eb8f80b3fefbab678880cc7fbab249e0a980ad395b2b72c8a781347cd5"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf33b3-1",
+    "colorId": "vw-t-cross-2026-bf33b3-1-paint-4",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF33B3/5T5T/front-3q.png",
+    "sha256": "8b138b6c47dae2cb7e0d04c42ffd903ffb4ac8f84afa802a9a33c9b3e210e955"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf33b3-1",
+    "colorId": "vw-t-cross-2026-bf33b3-1-paint-5",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF33B3/K2K2/front-3q.png",
+    "sha256": "3307b3aa39e6b28d877370ffb35aef76208df734c1d453b47300f499f003a76f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf34n3-1",
+    "colorId": "vw-t-cross-2026-bf34n3-1-paint-0",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF34N3/A1A1/front-3q.png",
+    "sha256": "742b4824122bfe9e0a85b8e72ce80cdb69b2bd95a22071aa90a5cb374bdecc6e"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf34n3-1",
+    "colorId": "vw-t-cross-2026-bf34n3-1-paint-1",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF34N3/0Q0Q/front-3q.png",
+    "sha256": "996b6b2e1bc6ea3ff76a7d0792e066582b9e23c328c6308fa204eabaffa7fdb8"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf34n3-1",
+    "colorId": "vw-t-cross-2026-bf34n3-1-paint-2",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF34N3/6K6K/front-3q.png",
+    "sha256": "efccc651f88f292f7f3ba7fa0814646dd14d47c486af501ff7300dda7879fa3e"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf34n3-1",
+    "colorId": "vw-t-cross-2026-bf34n3-1-paint-3",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF34N3/2R2R/front-3q.png",
+    "sha256": "6888181eecd5393b0c1ca3552635c54db8c0715a4eef278546e24753899afebf"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf34n3-1",
+    "colorId": "vw-t-cross-2026-bf34n3-1-paint-4",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF34N3/5T5T/front-3q.png",
+    "sha256": "7ad55f11cbf7eda401e3e04c7f4d54dc32a206c53b7cf3b811c4866e39fd25fc"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf34n3-1",
+    "colorId": "vw-t-cross-2026-bf34n3-1-paint-5",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF34N3/K2K2/front-3q.png",
+    "sha256": "b9e4a98b14a3975f9156991991121d6de1e42938585ed744947da48e9289fefb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf3xn3-1",
+    "colorId": "vw-t-cross-2026-bf3xn3-1-paint-1",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF3XN3/0QA1/front-3q.png",
+    "sha256": "1412611d49a2703c70850c6761ce01c09e1d7ac9902f7bfe9dd55575e1357eea"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf3xn3-1",
+    "colorId": "vw-t-cross-2026-bf3xn3-1-paint-2",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF3XN3/2RA1/front-3q.png",
+    "sha256": "21c23c6ec8a566f925dd86386f60e29c8fde5b7b59a8e1b97ad029e58c874cab"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf3xn3-1",
+    "colorId": "vw-t-cross-2026-bf3xn3-1-paint-3",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF3XN3/3XA1/front-3q.png",
+    "sha256": "8d81402287395f20464c77f68d4c5c30632c78178ebcba358f315eede258dc1b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-t-cross-2026-bf3xn3-1",
+    "colorId": "vw-t-cross-2026-bf3xn3-1-paint-4",
+    "path": "/images/vehicles/volkswagen/t-cross/2026/BF3XN3/6UA1/front-3q.png",
+    "sha256": "079ed6908d61a211107deed0c1784e2fb3a7d9d476c998a198ee75e608215fb6"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-r111q4-0",
+    "colorId": "vw-polo-2027-r111q4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/polo/2027/R111Q4/A1A1/front-3q.png",
+    "sha256": "bf009d108a073280f07705999082340edc5ace5de2f918f7a77841fbd79e659f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-r111q4-0",
+    "colorId": "vw-polo-2027-r111q4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/polo/2027/R111Q4/B4B4/front-3q.png",
+    "sha256": "5834a97a5a0c3a636eabbace0bd06e2dab31d4d39169f4ffd112aeeba44aea91"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-r111q4-0",
+    "colorId": "vw-polo-2027-r111q4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/polo/2027/R111Q4/2R2R/front-3q.png",
+    "sha256": "fb7d9d214cebb38ca2670f768ac9f4f7e31c928b6192a8e8ff1153b357c9cd48"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-r111q4-0",
+    "colorId": "vw-polo-2027-r111q4-0-paint-3",
+    "path": "/images/vehicles/volkswagen/polo/2027/R111Q4/7Z7Z/front-3q.png",
+    "sha256": "0d8866593ee05028afbadf83b11bccd6d31b6a4626029fd8d11384ea84367c6d"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-r11aq4-2",
+    "colorId": "vw-polo-2027-r11aq4-2-paint-0",
+    "path": "/images/vehicles/volkswagen/polo/2027/R11AQ4/A1A1/front-3q.png",
+    "sha256": "6f39a059a53ebbfeafeea7e56c3723914d7b4037d6ee16d12d3c61131c7c9815"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-r11aq4-2",
+    "colorId": "vw-polo-2027-r11aq4-2-paint-1",
+    "path": "/images/vehicles/volkswagen/polo/2027/R11AQ4/B4B4/front-3q.png",
+    "sha256": "06f5eca5cb3b7d27dd53814f96d74ab386d4741e65035d6b2fbb1551c5940cb9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-r11aq4-2",
+    "colorId": "vw-polo-2027-r11aq4-2-paint-2",
+    "path": "/images/vehicles/volkswagen/polo/2027/R11AQ4/2R2R/front-3q.png",
+    "sha256": "728d1706401e90747484ed4e0c3c173a87d1a0a39a4fc3b8a75f84c29e9f43ab"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-r11aq4-2",
+    "colorId": "vw-polo-2027-r11aq4-2-paint-3",
+    "path": "/images/vehicles/volkswagen/polo/2027/R11AQ4/7Z7Z/front-3q.png",
+    "sha256": "247e0f7ac98e755530cbf4599ce39d26e4d556d30ed5663bc696eeaf13eb85a7"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-bz3sk3-0",
+    "colorId": "vw-polo-2027-bz3sk3-0-paint-0",
+    "path": "/images/vehicles/volkswagen/polo/2027/BZ3SK3/A1A1/front-3q.png",
+    "sha256": "549478ac55aa1aeecaf77254dec9f6be0e529e90166c21ef5c950fd7d0afcfd8"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-bz3sk3-0",
+    "colorId": "vw-polo-2027-bz3sk3-0-paint-1",
+    "path": "/images/vehicles/volkswagen/polo/2027/BZ3SK3/B4B4/front-3q.png",
+    "sha256": "869e6d8d63ea70709f06e6af4ef343f10f41ee88490ed3e284a758e814f65b85"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-bz3sk3-0",
+    "colorId": "vw-polo-2027-bz3sk3-0-paint-2",
+    "path": "/images/vehicles/volkswagen/polo/2027/BZ3SK3/2R2R/front-3q.png",
+    "sha256": "4b8cd5ba19306cf9df0894569af3c07c1370d6627f2d478846a2f0ddd1817fb9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-bz3sk3-0",
+    "colorId": "vw-polo-2027-bz3sk3-0-paint-3",
+    "path": "/images/vehicles/volkswagen/polo/2027/BZ3SK3/7Z7Z/front-3q.png",
+    "sha256": "9ade8ad389a341d1eb10ff1601fdeba26e60f4586c9d2d8285923d09fcbf9b31"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-bz33k3-0",
+    "colorId": "vw-polo-2027-bz33k3-0-paint-0",
+    "path": "/images/vehicles/volkswagen/polo/2027/BZ33K3/A1A1/front-3q.png",
+    "sha256": "db43acc65ad895034c0537d9119dfcf40cf5af573e60737dcce4457ca8ff34eb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-bz33k3-0",
+    "colorId": "vw-polo-2027-bz33k3-0-paint-1",
+    "path": "/images/vehicles/volkswagen/polo/2027/BZ33K3/B4B4/front-3q.png",
+    "sha256": "502cf9a0aab121b41b6bb104d0bc8ecdcb9190e5c1c145198f424815160ceeb2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-bz33k3-0",
+    "colorId": "vw-polo-2027-bz33k3-0-paint-2",
+    "path": "/images/vehicles/volkswagen/polo/2027/BZ33K3/6K6K/front-3q.png",
+    "sha256": "313efd68e5c0bf736a149356a2299b831cfeb253e34d0253d7f53796ec302ef4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-bz33k3-0",
+    "colorId": "vw-polo-2027-bz33k3-0-paint-3",
+    "path": "/images/vehicles/volkswagen/polo/2027/BZ33K3/2R2R/front-3q.png",
+    "sha256": "ce51de6de70e49bfafaf2d916d54a2c8561275f27c3709c894b3f38cc395d8a5"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2027-bz33k3-0",
+    "colorId": "vw-polo-2027-bz33k3-0-paint-4",
+    "path": "/images/vehicles/volkswagen/polo/2027/BZ33K3/7Z7Z/front-3q.png",
+    "sha256": "d2dbc4c1edcf3ac790c735174d7c726c384ed608145c54811ee642e8b13f16d5"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-r111q4-0",
+    "colorId": "vw-polo-2026-r111q4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/polo/2026/R111Q4/A1A1/front-3q.png",
+    "sha256": "bf009d108a073280f07705999082340edc5ace5de2f918f7a77841fbd79e659f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-r111q4-0",
+    "colorId": "vw-polo-2026-r111q4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/polo/2026/R111Q4/B4B4/front-3q.png",
+    "sha256": "5834a97a5a0c3a636eabbace0bd06e2dab31d4d39169f4ffd112aeeba44aea91"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-r111q4-0",
+    "colorId": "vw-polo-2026-r111q4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/polo/2026/R111Q4/2R2R/front-3q.png",
+    "sha256": "fb7d9d214cebb38ca2670f768ac9f4f7e31c928b6192a8e8ff1153b357c9cd48"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-r111q4-0",
+    "colorId": "vw-polo-2026-r111q4-0-paint-3",
+    "path": "/images/vehicles/volkswagen/polo/2026/R111Q4/7Z7Z/front-3q.png",
+    "sha256": "0d8866593ee05028afbadf83b11bccd6d31b6a4626029fd8d11384ea84367c6d"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-r11aq4-1",
+    "colorId": "vw-polo-2026-r11aq4-1-paint-0",
+    "path": "/images/vehicles/volkswagen/polo/2026/R11AQ4/A1A1/front-3q.png",
+    "sha256": "6f39a059a53ebbfeafeea7e56c3723914d7b4037d6ee16d12d3c61131c7c9815"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-r11aq4-1",
+    "colorId": "vw-polo-2026-r11aq4-1-paint-1",
+    "path": "/images/vehicles/volkswagen/polo/2026/R11AQ4/B4B4/front-3q.png",
+    "sha256": "06f5eca5cb3b7d27dd53814f96d74ab386d4741e65035d6b2fbb1551c5940cb9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-r11aq4-1",
+    "colorId": "vw-polo-2026-r11aq4-1-paint-2",
+    "path": "/images/vehicles/volkswagen/polo/2026/R11AQ4/2R2R/front-3q.png",
+    "sha256": "728d1706401e90747484ed4e0c3c173a87d1a0a39a4fc3b8a75f84c29e9f43ab"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-r11aq4-1",
+    "colorId": "vw-polo-2026-r11aq4-1-paint-3",
+    "path": "/images/vehicles/volkswagen/polo/2026/R11AQ4/7Z7Z/front-3q.png",
+    "sha256": "247e0f7ac98e755530cbf4599ce39d26e4d556d30ed5663bc696eeaf13eb85a7"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-bz3sk3-0",
+    "colorId": "vw-polo-2026-bz3sk3-0-paint-0",
+    "path": "/images/vehicles/volkswagen/polo/2026/BZ3SK3/6K6K/front-3q.png",
+    "sha256": "67b1ca7d136fc22579fb9d0e678966c5ce256e23bb313236f8c27c1295f57816"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-bz3sk3-0",
+    "colorId": "vw-polo-2026-bz3sk3-0-paint-1",
+    "path": "/images/vehicles/volkswagen/polo/2026/BZ3SK3/2R2R/front-3q.png",
+    "sha256": "4b8cd5ba19306cf9df0894569af3c07c1370d6627f2d478846a2f0ddd1817fb9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-bz3sk3-0",
+    "colorId": "vw-polo-2026-bz3sk3-0-paint-2",
+    "path": "/images/vehicles/volkswagen/polo/2026/BZ3SK3/7Z7Z/front-3q.png",
+    "sha256": "9ade8ad389a341d1eb10ff1601fdeba26e60f4586c9d2d8285923d09fcbf9b31"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-bz3sk3-0",
+    "colorId": "vw-polo-2026-bz3sk3-0-paint-3",
+    "path": "/images/vehicles/volkswagen/polo/2026/BZ3SK3/A1A1/front-3q.png",
+    "sha256": "549478ac55aa1aeecaf77254dec9f6be0e529e90166c21ef5c950fd7d0afcfd8"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-bz3sk3-0",
+    "colorId": "vw-polo-2026-bz3sk3-0-paint-4",
+    "path": "/images/vehicles/volkswagen/polo/2026/BZ3SK3/B4B4/front-3q.png",
+    "sha256": "869e6d8d63ea70709f06e6af4ef343f10f41ee88490ed3e284a758e814f65b85"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-bz33k3-0",
+    "colorId": "vw-polo-2026-bz33k3-0-paint-0",
+    "path": "/images/vehicles/volkswagen/polo/2026/BZ33K3/A1A1/front-3q.png",
+    "sha256": "db43acc65ad895034c0537d9119dfcf40cf5af573e60737dcce4457ca8ff34eb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-bz33k3-0",
+    "colorId": "vw-polo-2026-bz33k3-0-paint-1",
+    "path": "/images/vehicles/volkswagen/polo/2026/BZ33K3/B4B4/front-3q.png",
+    "sha256": "502cf9a0aab121b41b6bb104d0bc8ecdcb9190e5c1c145198f424815160ceeb2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-bz33k3-0",
+    "colorId": "vw-polo-2026-bz33k3-0-paint-2",
+    "path": "/images/vehicles/volkswagen/polo/2026/BZ33K3/6K6K/front-3q.png",
+    "sha256": "313efd68e5c0bf736a149356a2299b831cfeb253e34d0253d7f53796ec302ef4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-bz33k3-0",
+    "colorId": "vw-polo-2026-bz33k3-0-paint-3",
+    "path": "/images/vehicles/volkswagen/polo/2026/BZ33K3/2R2R/front-3q.png",
+    "sha256": "ce51de6de70e49bfafaf2d916d54a2c8561275f27c3709c894b3f38cc395d8a5"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-polo-2026-bz33k3-0",
+    "colorId": "vw-polo-2026-bz33k3-0-paint-4",
+    "path": "/images/vehicles/volkswagen/polo/2026/BZ33K3/7Z7Z/front-3q.png",
+    "sha256": "d2dbc4c1edcf3ac790c735174d7c726c384ed608145c54811ee642e8b13f16d5"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz4ak4-0",
+    "colorId": "vw-virtus-2027-bz4ak4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ4AK4/A1A1/front-3q.png",
+    "sha256": "4fd39f0676f52f5a8eaabccc42bf6e75922ef744a0fe446b4a7369aa948f5d09"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz4ak4-0",
+    "colorId": "vw-virtus-2027-bz4ak4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ4AK4/B4B4/front-3q.png",
+    "sha256": "b38a3b2bf45d561e735b4408fd7aac7882c7861aa312736d82dffa58ad1b239b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz4ak4-0",
+    "colorId": "vw-virtus-2027-bz4ak4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ4AK4/2R2R/front-3q.png",
+    "sha256": "c4549ad4771b2c0ef4f40cd7153112032ba5457a0b61053897044961d21bcde4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz4ak4-0",
+    "colorId": "vw-virtus-2027-bz4ak4-0-paint-3",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ4AK4/7Z7Z/front-3q.png",
+    "sha256": "d1dd0cd6cbd6d254f4c51c1d88c49a01fa19f2646b06df7a6e330aa2d17a2811"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz42k3-0",
+    "colorId": "vw-virtus-2027-bz42k3-0-paint-0",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ42K3/A1A1/front-3q.png",
+    "sha256": "053dfe470b2b3310acd6e1f04ab1cdeef08a0d1301251f1376bc65d62d19199e"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz42k3-0",
+    "colorId": "vw-virtus-2027-bz42k3-0-paint-1",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ42K3/B4B4/front-3q.png",
+    "sha256": "036d9a80ed4ab9374c364927f4b6847a0e0ba4ff69b4a89dd806d219de72aba4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz42k3-0",
+    "colorId": "vw-virtus-2027-bz42k3-0-paint-2",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ42K3/2R2R/front-3q.png",
+    "sha256": "c713dc96bed9ea166bb47f2053398f966775b51ab6c4a493e40f22d05f78ea58"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz42k3-0",
+    "colorId": "vw-virtus-2027-bz42k3-0-paint-3",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ42K3/7Z7Z/front-3q.png",
+    "sha256": "34c8e565d1750888249761a9351dd5900b161d7f10b113a8889ccfcb4d9775af"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz43by-0",
+    "colorId": "vw-virtus-2027-bz43by-0-paint-0",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ43BY/A1A1/front-3q.png",
+    "sha256": "c4a01e93abd2b6ed43dd0d3255a804135e8c45c1022af67fbca6a6db340d4c5f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz43by-0",
+    "colorId": "vw-virtus-2027-bz43by-0-paint-1",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ43BY/B4B4/front-3q.png",
+    "sha256": "4e1997346517a60aaad7efedf799ccbe2018c306bf9b40841b1e7d0ea656a9a4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz43by-0",
+    "colorId": "vw-virtus-2027-bz43by-0-paint-2",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ43BY/2R2R/front-3q.png",
+    "sha256": "862f079203bbcc5cc9b680a2c578c6b207232c1bd447dd79de96838c866b4ab2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz43by-0",
+    "colorId": "vw-virtus-2027-bz43by-0-paint-3",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ43BY/7Z7Z/front-3q.png",
+    "sha256": "c27e3c4e6028310b95092d1187d4097014ca3aaae4d9eb0aac364d704dafcb42"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz44by-0",
+    "colorId": "vw-virtus-2027-bz44by-0-paint-0",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ44BY/A1A1/front-3q.png",
+    "sha256": "be1c41288712fbc14e3acf99015263c7461eaca3bcd3824ee0717f174be1b7b0"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz44by-0",
+    "colorId": "vw-virtus-2027-bz44by-0-paint-1",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ44BY/B4B4/front-3q.png",
+    "sha256": "e448069661a416909ce8a1bbf07d41bb0d486a56e6afa658ff0983d2222280c2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz44by-0",
+    "colorId": "vw-virtus-2027-bz44by-0-paint-2",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ44BY/2R2R/front-3q.png",
+    "sha256": "db487c5331de63a549fb5402b62af8b569705d093751cedb172354e6ff36e15c"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz44by-0",
+    "colorId": "vw-virtus-2027-bz44by-0-paint-3",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ44BY/7Z7Z/front-3q.png",
+    "sha256": "05f92cdf9751ee6d9c92022ff7a70407702131b4d7ee24369308dc3853ae21ff"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz47ny-0",
+    "colorId": "vw-virtus-2027-bz47ny-0-paint-0",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ47NY/A1A1/front-3q.png",
+    "sha256": "b52ca22dd477d30229fcd968999655312ca72f3f5408503688269eea371a5001"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz47ny-0",
+    "colorId": "vw-virtus-2027-bz47ny-0-paint-1",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ47NY/B4B4/front-3q.png",
+    "sha256": "2a827014da5ccf7140c5304bdc1e00bf5fb881ecd6e971d3d390d8369e2219a9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2027-bz47ny-0",
+    "colorId": "vw-virtus-2027-bz47ny-0-paint-2",
+    "path": "/images/vehicles/volkswagen/virtus/2027/BZ47NY/2R2R/front-3q.png",
+    "sha256": "783576ab620160033a9c5a8282821263a6dc6e2ef705d4d32cfd64196c531a2f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz4ak4-0",
+    "colorId": "vw-virtus-2026-bz4ak4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ4AK4/A1A1/front-3q.png",
+    "sha256": "4fd39f0676f52f5a8eaabccc42bf6e75922ef744a0fe446b4a7369aa948f5d09"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz4ak4-0",
+    "colorId": "vw-virtus-2026-bz4ak4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ4AK4/B4B4/front-3q.png",
+    "sha256": "b38a3b2bf45d561e735b4408fd7aac7882c7861aa312736d82dffa58ad1b239b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz4ak4-0",
+    "colorId": "vw-virtus-2026-bz4ak4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ4AK4/2R2R/front-3q.png",
+    "sha256": "c4549ad4771b2c0ef4f40cd7153112032ba5457a0b61053897044961d21bcde4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz4ak4-0",
+    "colorId": "vw-virtus-2026-bz4ak4-0-paint-3",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ4AK4/7Q7Q/front-3q.png",
+    "sha256": "266dd7d5ba2a9e7a8e855975604140e3d797b3928ac2d34c55e59b8c6937bb81"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz4ak4-0",
+    "colorId": "vw-virtus-2026-bz4ak4-0-paint-4",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ4AK4/7Z7Z/front-3q.png",
+    "sha256": "d1dd0cd6cbd6d254f4c51c1d88c49a01fa19f2646b06df7a6e330aa2d17a2811"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz42k4-0",
+    "colorId": "vw-virtus-2026-bz42k4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ42K4/A1A1/front-3q.png",
+    "sha256": "053dfe470b2b3310acd6e1f04ab1cdeef08a0d1301251f1376bc65d62d19199e"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz42k4-0",
+    "colorId": "vw-virtus-2026-bz42k4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ42K4/B4B4/front-3q.png",
+    "sha256": "036d9a80ed4ab9374c364927f4b6847a0e0ba4ff69b4a89dd806d219de72aba4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz42k4-0",
+    "colorId": "vw-virtus-2026-bz42k4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ42K4/2R2R/front-3q.png",
+    "sha256": "c713dc96bed9ea166bb47f2053398f966775b51ab6c4a493e40f22d05f78ea58"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz42k4-0",
+    "colorId": "vw-virtus-2026-bz42k4-0-paint-3",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ42K4/7Q7Q/front-3q.png",
+    "sha256": "f2ec2ddf574fad41d98fba1935433d0e81eb03ed90234214b9651369e67575fb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz42k4-0",
+    "colorId": "vw-virtus-2026-bz42k4-0-paint-4",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ42K4/7Z7Z/front-3q.png",
+    "sha256": "34c8e565d1750888249761a9351dd5900b161d7f10b113a8889ccfcb4d9775af"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz42k3-0",
+    "colorId": "vw-virtus-2026-bz42k3-0-paint-0",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ42K3/A1A1/front-3q.png",
+    "sha256": "053dfe470b2b3310acd6e1f04ab1cdeef08a0d1301251f1376bc65d62d19199e"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz42k3-0",
+    "colorId": "vw-virtus-2026-bz42k3-0-paint-1",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ42K3/B4B4/front-3q.png",
+    "sha256": "036d9a80ed4ab9374c364927f4b6847a0e0ba4ff69b4a89dd806d219de72aba4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz42k3-0",
+    "colorId": "vw-virtus-2026-bz42k3-0-paint-2",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ42K3/2R2R/front-3q.png",
+    "sha256": "c713dc96bed9ea166bb47f2053398f966775b51ab6c4a493e40f22d05f78ea58"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz42k3-0",
+    "colorId": "vw-virtus-2026-bz42k3-0-paint-3",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ42K3/7Q7Q/front-3q.png",
+    "sha256": "f2ec2ddf574fad41d98fba1935433d0e81eb03ed90234214b9651369e67575fb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz42k3-0",
+    "colorId": "vw-virtus-2026-bz42k3-0-paint-4",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ42K3/7Z7Z/front-3q.png",
+    "sha256": "34c8e565d1750888249761a9351dd5900b161d7f10b113a8889ccfcb4d9775af"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz43by-0",
+    "colorId": "vw-virtus-2026-bz43by-0-paint-0",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ43BY/A1A1/front-3q.png",
+    "sha256": "c4a01e93abd2b6ed43dd0d3255a804135e8c45c1022af67fbca6a6db340d4c5f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz43by-0",
+    "colorId": "vw-virtus-2026-bz43by-0-paint-1",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ43BY/B4B4/front-3q.png",
+    "sha256": "4e1997346517a60aaad7efedf799ccbe2018c306bf9b40841b1e7d0ea656a9a4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz43by-0",
+    "colorId": "vw-virtus-2026-bz43by-0-paint-2",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ43BY/2R2R/front-3q.png",
+    "sha256": "862f079203bbcc5cc9b680a2c578c6b207232c1bd447dd79de96838c866b4ab2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz43by-0",
+    "colorId": "vw-virtus-2026-bz43by-0-paint-3",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ43BY/7Q7Q/front-3q.png",
+    "sha256": "6d9627aa2d27b358e56a2b66a39866af8d18338cdb812e154baee6949e010531"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz43by-0",
+    "colorId": "vw-virtus-2026-bz43by-0-paint-4",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ43BY/7Z7Z/front-3q.png",
+    "sha256": "c27e3c4e6028310b95092d1187d4097014ca3aaae4d9eb0aac364d704dafcb42"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz44by-1",
+    "colorId": "vw-virtus-2026-bz44by-1-paint-0",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ44BY/A1A1/front-3q.png",
+    "sha256": "be1c41288712fbc14e3acf99015263c7461eaca3bcd3824ee0717f174be1b7b0"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz44by-1",
+    "colorId": "vw-virtus-2026-bz44by-1-paint-1",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ44BY/B4B4/front-3q.png",
+    "sha256": "e448069661a416909ce8a1bbf07d41bb0d486a56e6afa658ff0983d2222280c2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz44by-1",
+    "colorId": "vw-virtus-2026-bz44by-1-paint-2",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ44BY/2R2R/front-3q.png",
+    "sha256": "db487c5331de63a549fb5402b62af8b569705d093751cedb172354e6ff36e15c"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz44by-1",
+    "colorId": "vw-virtus-2026-bz44by-1-paint-3",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ44BY/7Q7Q/front-3q.png",
+    "sha256": "0f16e9ffa7b807b0323e274d26a5396e228b85405c5200598904f06ab763682f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz44by-1",
+    "colorId": "vw-virtus-2026-bz44by-1-paint-4",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ44BY/7Z7Z/front-3q.png",
+    "sha256": "05f92cdf9751ee6d9c92022ff7a70407702131b4d7ee24369308dc3853ae21ff"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz47ny-1",
+    "colorId": "vw-virtus-2026-bz47ny-1-paint-0",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ47NY/A1A1/front-3q.png",
+    "sha256": "b52ca22dd477d30229fcd968999655312ca72f3f5408503688269eea371a5001"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz47ny-1",
+    "colorId": "vw-virtus-2026-bz47ny-1-paint-1",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ47NY/B4B4/front-3q.png",
+    "sha256": "2a827014da5ccf7140c5304bdc1e00bf5fb881ecd6e971d3d390d8369e2219a9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz47ny-1",
+    "colorId": "vw-virtus-2026-bz47ny-1-paint-2",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ47NY/2R2R/front-3q.png",
+    "sha256": "783576ab620160033a9c5a8282821263a6dc6e2ef705d4d32cfd64196c531a2f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-virtus-2026-bz47ny-1",
+    "colorId": "vw-virtus-2026-bz47ny-1-paint-3",
+    "path": "/images/vehicles/volkswagen/virtus/2026/BZ47NY/7Z7Z/front-3q.png",
+    "sha256": "39db2082f65a687a1ebf6c0058fd91a24044ab0847d658c7cd608dda1c7fd422"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch21by-0",
+    "colorId": "vw-nivus-2027-ch21by-0-paint-0",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH21BY/2R2R/front-3q.png",
+    "sha256": "ccf8416bb46554a16c3936a5c1dcb57555a19d7e4eed5a5e981ad4cc0ca3ef4d"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch21by-0",
+    "colorId": "vw-nivus-2027-ch21by-0-paint-1",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH21BY/B4B4/front-3q.png",
+    "sha256": "5d359ee1b81681b25e9d4be618daa939430e851bcbd81c117a9407887b00fbbb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch21by-0",
+    "colorId": "vw-nivus-2027-ch21by-0-paint-2",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH21BY/A1A1/front-3q.png",
+    "sha256": "425269907559b150d032c56bddf4c566b981d04f6448e574b9e86352fa615b5c"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch23by-0",
+    "colorId": "vw-nivus-2027-ch23by-0-paint-0",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH23BY/A1A1/front-3q.png",
+    "sha256": "2c1bccf3904f4c06411002db9de6bfd25091c1f08d91449d44f4b39b73422a30"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch23by-0",
+    "colorId": "vw-nivus-2027-ch23by-0-paint-1",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH23BY/B4B4/front-3q.png",
+    "sha256": "917430159ba4750d7f9210c5e74cfba286aadcb5af1295b9ad4a941e03e1cd23"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch23by-0",
+    "colorId": "vw-nivus-2027-ch23by-0-paint-2",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH23BY/D7D7/front-3q.png",
+    "sha256": "b759e97c8c5e2e4adf8eed42bac5e613da479643e963eb3ad12fe49bd7cd127f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch23by-0",
+    "colorId": "vw-nivus-2027-ch23by-0-paint-3",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH23BY/6K6K/front-3q.png",
+    "sha256": "4f72ce8d1f9d452476911d17c2a4415f37b97bcbba51abf274d643ce0cece039"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch23by-0",
+    "colorId": "vw-nivus-2027-ch23by-0-paint-4",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH23BY/2R2R/front-3q.png",
+    "sha256": "4c9d7e20810d4f91da72a1c8b926ad999c7a8e1e81017854929df04240798a69"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch23by-0",
+    "colorId": "vw-nivus-2027-ch23by-0-paint-5",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH23BY/I8I8/front-3q.png",
+    "sha256": "925c610ae042401a5c77d3197cdb47c1e524cfbf0bdfa8d86dbf533d08321cec"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch24by-0",
+    "colorId": "vw-nivus-2027-ch24by-0-paint-0",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH24BY/A1A1/front-3q.png",
+    "sha256": "2b4254b3851ac8edbe20ef7121c618b0d9ca7d492e00059ea2b9d5f882912034"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch24by-0",
+    "colorId": "vw-nivus-2027-ch24by-0-paint-1",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH24BY/B4B4/front-3q.png",
+    "sha256": "c45d38f08061b08883a93bce3c636da8097ffb4790117472d47db959f1ae6c1c"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch24by-0",
+    "colorId": "vw-nivus-2027-ch24by-0-paint-2",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH24BY/I8A1/front-3q.png",
+    "sha256": "4ea1676979bd89c2cb7f4e31094b739f0b8303a81f69d964b7a0f24ed0d3a7d9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch24by-0",
+    "colorId": "vw-nivus-2027-ch24by-0-paint-3",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH24BY/B4A1/front-3q.png",
+    "sha256": "f330a4faad1e0f42bf24acf8f04d694867e688ea402733fb4d9c7a76c7b3cf71"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch24by-0",
+    "colorId": "vw-nivus-2027-ch24by-0-paint-4",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH24BY/C2A1/front-3q.png",
+    "sha256": "8b6564f84dafcdf96debb103d614cb95fb6c30fa109f4f24bd0184226efbf364"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch24by-0",
+    "colorId": "vw-nivus-2027-ch24by-0-paint-5",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH24BY/D7A1/front-3q.png",
+    "sha256": "ab830deb9c0e27f1cff8ba7789842191ed760148dbd8a4fae8de0df185c5bdd7"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch24by-0",
+    "colorId": "vw-nivus-2027-ch24by-0-paint-6",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH24BY/C2C2/front-3q.png",
+    "sha256": "a6783caaa00698088409444ce8ad13edc6830be1ca0e4ad7895dca1cf68f3581"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch24by-0",
+    "colorId": "vw-nivus-2027-ch24by-0-paint-7",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH24BY/D7D7/front-3q.png",
+    "sha256": "01dd1a148dd9e9b5a00f78bb72287c25fb744a4774de3e94776c2f037c9e5d2f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch24by-0",
+    "colorId": "vw-nivus-2027-ch24by-0-paint-8",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH24BY/6K6K/front-3q.png",
+    "sha256": "2cdc5fec1c7eef5a800b49af884f88718175925c0ffb9ab46aee1dbc44a51fac"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch24by-0",
+    "colorId": "vw-nivus-2027-ch24by-0-paint-9",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH24BY/I8I8/front-3q.png",
+    "sha256": "7a8f18d970af9db373d3e9523b14b56571f3dd5914cd374c20937e7d3ceecabe"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch24by-0",
+    "colorId": "vw-nivus-2027-ch24by-0-paint-10",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH24BY/2R2R/front-3q.png",
+    "sha256": "ea404c6a3d2a5ecffa4e92c8fbe1111f9e017cf679ca8e9d6175fcea7476dece"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch29ny-0",
+    "colorId": "vw-nivus-2027-ch29ny-0-paint-0",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH29NY/A1A1/front-3q.png",
+    "sha256": "cdb47199692fd0aa5fefc07fe661c3b8353f53a4472b3300dfc56780bfdab821"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch29ny-0",
+    "colorId": "vw-nivus-2027-ch29ny-0-paint-1",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH29NY/B4A1/front-3q.png",
+    "sha256": "c9d6f4936e6296ec62915dd99930770b4fa517b4b5fb4ba66d2ab2ec2e099921"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch29ny-0",
+    "colorId": "vw-nivus-2027-ch29ny-0-paint-2",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH29NY/6KA1/front-3q.png",
+    "sha256": "ec2bc02c951db9f4516b1b1437bfa2c059d31e92f5097e965195a4214c88f0bd"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch29ny-0",
+    "colorId": "vw-nivus-2027-ch29ny-0-paint-3",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH29NY/C2A1/front-3q.png",
+    "sha256": "865a2de1d9459a592be4e8ec847f9bd90d1fb1d8c5b07685d78cf348291d30c3"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2027-ch29ny-0",
+    "colorId": "vw-nivus-2027-ch29ny-0-paint-4",
+    "path": "/images/vehicles/volkswagen/nivus/2027/CH29NY/I8A1/front-3q.png",
+    "sha256": "4b2b08d6c169a491ca9c8e445b4f809ae9b1ff2cf7f5aec8dbafa5157e716d87"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch21by-0",
+    "colorId": "vw-nivus-2026-ch21by-0-paint-0",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH21BY/2R2R/front-3q.png",
+    "sha256": "ccf8416bb46554a16c3936a5c1dcb57555a19d7e4eed5a5e981ad4cc0ca3ef4d"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch21by-0",
+    "colorId": "vw-nivus-2026-ch21by-0-paint-1",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH21BY/A1A1/front-3q.png",
+    "sha256": "425269907559b150d032c56bddf4c566b981d04f6448e574b9e86352fa615b5c"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch21by-0",
+    "colorId": "vw-nivus-2026-ch21by-0-paint-2",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH21BY/B4B4/front-3q.png",
+    "sha256": "5d359ee1b81681b25e9d4be618daa939430e851bcbd81c117a9407887b00fbbb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch23by-1",
+    "colorId": "vw-nivus-2026-ch23by-1-paint-0",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH23BY/A1A1/front-3q.png",
+    "sha256": "2c1bccf3904f4c06411002db9de6bfd25091c1f08d91449d44f4b39b73422a30"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch23by-1",
+    "colorId": "vw-nivus-2026-ch23by-1-paint-1",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH23BY/B4B4/front-3q.png",
+    "sha256": "917430159ba4750d7f9210c5e74cfba286aadcb5af1295b9ad4a941e03e1cd23"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch23by-1",
+    "colorId": "vw-nivus-2026-ch23by-1-paint-2",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH23BY/D7D7/front-3q.png",
+    "sha256": "b759e97c8c5e2e4adf8eed42bac5e613da479643e963eb3ad12fe49bd7cd127f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch23by-1",
+    "colorId": "vw-nivus-2026-ch23by-1-paint-3",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH23BY/2R2R/front-3q.png",
+    "sha256": "4c9d7e20810d4f91da72a1c8b926ad999c7a8e1e81017854929df04240798a69"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch23by-1",
+    "colorId": "vw-nivus-2026-ch23by-1-paint-4",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH23BY/6K6K/front-3q.png",
+    "sha256": "4f72ce8d1f9d452476911d17c2a4415f37b97bcbba51abf274d643ce0cece039"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch23by-1",
+    "colorId": "vw-nivus-2026-ch23by-1-paint-5",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH23BY/I8I8/front-3q.png",
+    "sha256": "925c610ae042401a5c77d3197cdb47c1e524cfbf0bdfa8d86dbf533d08321cec"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch24by-1",
+    "colorId": "vw-nivus-2026-ch24by-1-paint-0",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH24BY/A1A1/front-3q.png",
+    "sha256": "2b4254b3851ac8edbe20ef7121c618b0d9ca7d492e00059ea2b9d5f882912034"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch24by-1",
+    "colorId": "vw-nivus-2026-ch24by-1-paint-1",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH24BY/B4A1/front-3q.png",
+    "sha256": "f330a4faad1e0f42bf24acf8f04d694867e688ea402733fb4d9c7a76c7b3cf71"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch24by-1",
+    "colorId": "vw-nivus-2026-ch24by-1-paint-2",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH24BY/B4B4/front-3q.png",
+    "sha256": "c45d38f08061b08883a93bce3c636da8097ffb4790117472d47db959f1ae6c1c"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch24by-1",
+    "colorId": "vw-nivus-2026-ch24by-1-paint-3",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH24BY/C2A1/front-3q.png",
+    "sha256": "8b6564f84dafcdf96debb103d614cb95fb6c30fa109f4f24bd0184226efbf364"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch24by-1",
+    "colorId": "vw-nivus-2026-ch24by-1-paint-4",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH24BY/D7A1/front-3q.png",
+    "sha256": "ab830deb9c0e27f1cff8ba7789842191ed760148dbd8a4fae8de0df185c5bdd7"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch24by-1",
+    "colorId": "vw-nivus-2026-ch24by-1-paint-5",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH24BY/I8A1/front-3q.png",
+    "sha256": "4ea1676979bd89c2cb7f4e31094b739f0b8303a81f69d964b7a0f24ed0d3a7d9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch24by-1",
+    "colorId": "vw-nivus-2026-ch24by-1-paint-6",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH24BY/C2C2/front-3q.png",
+    "sha256": "a6783caaa00698088409444ce8ad13edc6830be1ca0e4ad7895dca1cf68f3581"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch24by-1",
+    "colorId": "vw-nivus-2026-ch24by-1-paint-7",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH24BY/D7D7/front-3q.png",
+    "sha256": "01dd1a148dd9e9b5a00f78bb72287c25fb744a4774de3e94776c2f037c9e5d2f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch24by-1",
+    "colorId": "vw-nivus-2026-ch24by-1-paint-8",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH24BY/2R2R/front-3q.png",
+    "sha256": "ea404c6a3d2a5ecffa4e92c8fbe1111f9e017cf679ca8e9d6175fcea7476dece"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch24by-1",
+    "colorId": "vw-nivus-2026-ch24by-1-paint-9",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH24BY/6K6K/front-3q.png",
+    "sha256": "2cdc5fec1c7eef5a800b49af884f88718175925c0ffb9ab46aee1dbc44a51fac"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-nivus-2026-ch24by-1",
+    "colorId": "vw-nivus-2026-ch24by-1-paint-10",
+    "path": "/images/vehicles/volkswagen/nivus/2026/CH24BY/I8I8/front-3q.png",
+    "sha256": "7a8f18d970af9db373d3e9523b14b56571f3dd5914cd374c20937e7d3ceecabe"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df12q4-0",
+    "colorId": "vw-tera-2026-df12q4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF12Q4/A1A1/front-3q.png",
+    "sha256": "1a772503105b069ff4b19b623779633fa4a23afeecd5263e25681f5c596f1689"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df12q4-0",
+    "colorId": "vw-tera-2026-df12q4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF12Q4/B4B4/front-3q.png",
+    "sha256": "89452e2e2528b7e3cd9bcf1c9877f67a30ebed6971091df1c4567d997a2dcc34"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df12q4-0",
+    "colorId": "vw-tera-2026-df12q4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF12Q4/2R2R/front-3q.png",
+    "sha256": "63857d997b0a92251737dfbc64dc911b24dc701d3c0c4a89466be76171557e92"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df12q4-0",
+    "colorId": "vw-tera-2026-df12q4-0-paint-3",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF12Q4/L0L0/front-3q.png",
+    "sha256": "15eb094efab85a8bb7b71b3e100caf51386218900715d52da8e73119ca073de2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df12q4-0",
+    "colorId": "vw-tera-2026-df12q4-0-paint-4",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF12Q4/L4L4/front-3q.png",
+    "sha256": "50727fa2c2b1f6013eb4dc1b9d14d1adf1ed0cf20c45d2cbd9ffc14ca2bd1ac3"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df12q4-0",
+    "colorId": "vw-tera-2026-df12q4-0-paint-5",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF12Q4/R4R4/front-3q.png",
+    "sha256": "594f14249e5af16f4fe03f3eafbb6aad1e9e6a08f5080a9df40c3a351290091f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k4-0",
+    "colorId": "vw-tera-2026-df13k4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K4/A1A1/front-3q.png",
+    "sha256": "a935be5f485c8346b8a3bf1672a82c2c8dc5689147ad13c4683b5ef37207114e"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k4-0",
+    "colorId": "vw-tera-2026-df13k4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K4/B4B4/front-3q.png",
+    "sha256": "636695453d06e46ee7c40b82401c83f144abb814c7b3e09e3e649658eaa5e478"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k4-0",
+    "colorId": "vw-tera-2026-df13k4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K4/2R2R/front-3q.png",
+    "sha256": "ec4d4f7cc130fdada09ed03cba18226e8f9c8d07b5d923301252a54919b9f699"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k4-0",
+    "colorId": "vw-tera-2026-df13k4-0-paint-3",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K4/L0L0/front-3q.png",
+    "sha256": "2494125125c465524d202097d7424aef74ad764329937504b55b96274c9a1730"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k4-0",
+    "colorId": "vw-tera-2026-df13k4-0-paint-4",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K4/L4L4/front-3q.png",
+    "sha256": "4bc67b4f004b33fcc9d662957d182504f72271e9cbf47113c427f1c46c1774d4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k4-0",
+    "colorId": "vw-tera-2026-df13k4-0-paint-5",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K4/R4R4/front-3q.png",
+    "sha256": "4fd4c6c13ddfb68f4af4113ef208d60481b9f92092e9fb2bdb585cc2714f8817"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k3-0",
+    "colorId": "vw-tera-2026-df13k3-0-paint-0",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K3/A1A1/front-3q.png",
+    "sha256": "62dd527a8e12df18cb5e572370fe8f296a0b85b25e9e42aa7dd77f3fcb35c47a"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k3-0",
+    "colorId": "vw-tera-2026-df13k3-0-paint-1",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K3/B4B4/front-3q.png",
+    "sha256": "ac9f894520c465649e35fbbf897063d5d6521442ebc0eb31085fd65b5dcd2356"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k3-0",
+    "colorId": "vw-tera-2026-df13k3-0-paint-2",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K3/2R2R/front-3q.png",
+    "sha256": "8523100a1a7be8fd7d96326fc162feed8a9eb33d67e0d2f2b6557c1325c1c857"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k3-0",
+    "colorId": "vw-tera-2026-df13k3-0-paint-3",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K3/L0L0/front-3q.png",
+    "sha256": "0c4ca075c3ed50a56eba885206663738231a6badb47e4c0d221196d366f8bfc9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k3-0",
+    "colorId": "vw-tera-2026-df13k3-0-paint-4",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K3/L4L4/front-3q.png",
+    "sha256": "5c99f811688f7c9e6028ecae065bb8bdfbbce8532f8221287e21518c8f8698e8"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df13k3-0",
+    "colorId": "vw-tera-2026-df13k3-0-paint-5",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF13K3/R4R4/front-3q.png",
+    "sha256": "447b3a3aa619ea9592113837206023bc940e01a1a9582f5598d3b40f0a302ad9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df14k3-0",
+    "colorId": "vw-tera-2026-df14k3-0-paint-0",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF14K3/A1A1/front-3q.png",
+    "sha256": "9ffc24a6a7d7ea1f41d5ea24a693d6ecc5e73b04f566130de4176dbd8892c998"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df14k3-0",
+    "colorId": "vw-tera-2026-df14k3-0-paint-1",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF14K3/B4A1/front-3q.png",
+    "sha256": "a20dc0e4b36641121fbdf7b4666b15c88446a56d9029672ff0e4281c04c6869e"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df14k3-0",
+    "colorId": "vw-tera-2026-df14k3-0-paint-2",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF14K3/B4B4/front-3q.png",
+    "sha256": "8229e59796df4c80cb8791aec8953fcd24261be8339b7e902b9126d7841d6724"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df14k3-0",
+    "colorId": "vw-tera-2026-df14k3-0-paint-3",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF14K3/2RA1/front-3q.png",
+    "sha256": "6cd72fade7c50fbbc2536a6f3ed6486334d660bc7fd6f27b3fd7cdc93674a77d"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df14k3-0",
+    "colorId": "vw-tera-2026-df14k3-0-paint-4",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF14K3/L0A1/front-3q.png",
+    "sha256": "5ab063e691ae0e3c891ade3553f4c76fbde033b7c86252268b51232888967793"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df14k3-0",
+    "colorId": "vw-tera-2026-df14k3-0-paint-5",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF14K3/L4A1/front-3q.png",
+    "sha256": "ddb64e21c0ac5f5d4d3b2e1279509a0e1d3c1e4ac43273d4fcd9c92e37303180"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df14k3-0",
+    "colorId": "vw-tera-2026-df14k3-0-paint-6",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF14K3/R4A1/front-3q.png",
+    "sha256": "66d4a6567d85a0807a74db53b3001a00489c61b0a5682c815b0c7b8aa1ca5d04"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df14k3-0",
+    "colorId": "vw-tera-2026-df14k3-0-paint-7",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF14K3/2R2R/front-3q.png",
+    "sha256": "fcb0cb3e58ad4916e9d701e060ff74889163012f9b5f1c34aeeb427e13f9615a"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df14k3-0",
+    "colorId": "vw-tera-2026-df14k3-0-paint-8",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF14K3/L0L0/front-3q.png",
+    "sha256": "093ec39d04037224f204302a2adbcc139e78e8412b7287a4766d4492b6f75672"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df14k3-0",
+    "colorId": "vw-tera-2026-df14k3-0-paint-9",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF14K3/L4L4/front-3q.png",
+    "sha256": "4372d7a6485c72e18c8c00bc92f6bd78ce9d87d9d88499e7d72ca5b927ab9085"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tera-2026-df14k3-0",
+    "colorId": "vw-tera-2026-df14k3-0-paint-10",
+    "path": "/images/vehicles/volkswagen/tera/2026/DF14K3/R4R4/front-3q.png",
+    "sha256": "ce27c6872dae29a0228ae9d0743b9356d0038579627c2e86c6b93d4830b50a9c"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-taos-2026-cl23lz-1",
+    "colorId": "vw-taos-2026-cl23lz-1-paint-0",
+    "path": "/images/vehicles/volkswagen/taos/2026/CL23LZ/0Q0Q/front-3q.png",
+    "sha256": "1d146bfc3ef2336a6f53a47cdbfb1988f3b8a06e930f2f0c8c3b0b978d61bc43"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-taos-2026-cl23lz-1",
+    "colorId": "vw-taos-2026-cl23lz-1-paint-1",
+    "path": "/images/vehicles/volkswagen/taos/2026/CL23LZ/2R2R/front-3q.png",
+    "sha256": "255f62c91111cc7afddc1796a2260f1b48b41955fea1ba03b44999f3db42207d"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-taos-2026-cl23lz-1",
+    "colorId": "vw-taos-2026-cl23lz-1-paint-2",
+    "path": "/images/vehicles/volkswagen/taos/2026/CL23LZ/K2K2/front-3q.png",
+    "sha256": "a1d8c08ea850fc353651aca8775406440afa9ff4dbd68381c58d1f0323927d3c"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-taos-2026-cl23lz-1",
+    "colorId": "vw-taos-2026-cl23lz-1-paint-3",
+    "path": "/images/vehicles/volkswagen/taos/2026/CL23LZ/2T2T/front-3q.png",
+    "sha256": "109f18ed13515aa567bf40198687236c2a6f1ffcde833a3b33f7f88332e5beee"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-taos-2026-cl23lz-1",
+    "colorId": "vw-taos-2026-cl23lz-1-paint-4",
+    "path": "/images/vehicles/volkswagen/taos/2026/CL23LZ/U1U1/front-3q.png",
+    "sha256": "1a26499099ef571c2534663965458e4abfcee896768e3168d4dedf87acb59974"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-taos-2026-cl23lz-1",
+    "colorId": "vw-taos-2026-cl23lz-1-paint-5",
+    "path": "/images/vehicles/volkswagen/taos/2026/CL23LZ/9728/front-3q.png",
+    "sha256": "e19ca1340663bd2651127911db2994fb5b0d5c57c84ad73b030de35e0f7350c1"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-taos-2026-cl24lz-2",
+    "colorId": "vw-taos-2026-cl24lz-2-paint-8",
+    "path": "/images/vehicles/volkswagen/taos/2026/CL24LZ/2T2T/front-3q.png",
+    "sha256": "38d04a7534adbb0b4f340ec84e63bc028cdd6a7155758cdbb798d85922569451"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-jetta-2026-bu59vz-1",
+    "colorId": "vw-jetta-2026-bu59vz-1-paint-0",
+    "path": "/images/vehicles/volkswagen/jetta/2026/BU59VZ/0Q0Q/front-3q.png",
+    "sha256": "d7826c6004e2462572fd2245e24fe2d4297b0969ad19762ad25677257be90501"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-jetta-2026-bu59vz-1",
+    "colorId": "vw-jetta-2026-bu59vz-1-paint-1",
+    "path": "/images/vehicles/volkswagen/jetta/2026/BU59VZ/2R2R/front-3q.png",
+    "sha256": "7551a77f4ba1e2ba05175481c971af7429df507dc324771964b3f4411d6dc930"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-jetta-2026-bu59vz-1",
+    "colorId": "vw-jetta-2026-bu59vz-1-paint-2",
+    "path": "/images/vehicles/volkswagen/jetta/2026/BU59VZ/9728/front-3q.png",
+    "sha256": "87352f67a062c22ae4a9ce4e06e248d59b468d29586f3753d660ce2b88138c20"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-jetta-2026-bu59vz-1",
+    "colorId": "vw-jetta-2026-bu59vz-1-paint-3",
+    "path": "/images/vehicles/volkswagen/jetta/2026/BU59VZ/P8P8/front-3q.png",
+    "sha256": "6be4d38d8e2d4f9dfcfab6066d05dc808a9bde4baa7cfdb0df2d0de632ccebb2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-jetta-2026-bu59vz-1",
+    "colorId": "vw-jetta-2026-bu59vz-1-paint-4",
+    "path": "/images/vehicles/volkswagen/jetta/2026/BU59VZ/2T2T/front-3q.png",
+    "sha256": "a77894e119e3ceda61110b2bee27e957d32a2f2446343b73627881be0536c488"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-jetta-2026-bu59vz-1",
+    "colorId": "vw-jetta-2026-bu59vz-1-paint-5",
+    "path": "/images/vehicles/volkswagen/jetta/2026/BU59VZ/U1U1/front-3q.png",
+    "sha256": "76419933700327a050169eeea0512efe27d8b5d6b890885c5796785325340feb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2027-rm14qj-3",
+    "colorId": "vw-tiguan-2027-rm14qj-3-paint-0",
+    "path": "/images/vehicles/volkswagen/tiguan/2027/RM14QJ/K2K2/front-3q.png",
+    "sha256": "c7e66a1576df735814967b868a6f326e6a5f2b27551ccb552732c282f99b346d"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2027-rm14qj-3",
+    "colorId": "vw-tiguan-2027-rm14qj-3-paint-1",
+    "path": "/images/vehicles/volkswagen/tiguan/2027/RM14QJ/2R2R/front-3q.png",
+    "sha256": "3519137e6889b06dac280482bb0276b45c9a1c1af0215030fbd665284065eeec"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2027-rm14qj-3",
+    "colorId": "vw-tiguan-2027-rm14qj-3-paint-2",
+    "path": "/images/vehicles/volkswagen/tiguan/2027/RM14QJ/2T2T/front-3q.png",
+    "sha256": "77cc8ddaf23df046c3c0d11a91f71b9fa3034a202abc0736acbe61e770e4aafb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2027-rm14qj-3",
+    "colorId": "vw-tiguan-2027-rm14qj-3-paint-3",
+    "path": "/images/vehicles/volkswagen/tiguan/2027/RM14QJ/U1U1/front-3q.png",
+    "sha256": "24e717c44530603c2eabfdff2bd7a4edadb095c12c7c86079fbe78802a466987"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2027-rm14qj-3",
+    "colorId": "vw-tiguan-2027-rm14qj-3-paint-5",
+    "path": "/images/vehicles/volkswagen/tiguan/2027/RM14QJ/6U2T/front-3q.png",
+    "sha256": "df874a3744e87031a83442c7ac9232fa0e6e631c9c52f7db371b0e9730e50d75"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2027-rm14qj-3",
+    "colorId": "vw-tiguan-2027-rm14qj-3-paint-6",
+    "path": "/images/vehicles/volkswagen/tiguan/2027/RM14QJ/U12T/front-3q.png",
+    "sha256": "99f7d1d4a99ea33ba07f1a6a4ea520ecab1720948898d158c0f2362899adcfac"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2026-rm14qj-4",
+    "colorId": "vw-tiguan-2026-rm14qj-4-paint-0",
+    "path": "/images/vehicles/volkswagen/tiguan/2026/RM14QJ/K2K2/front-3q.png",
+    "sha256": "c7e66a1576df735814967b868a6f326e6a5f2b27551ccb552732c282f99b346d"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2026-rm14qj-4",
+    "colorId": "vw-tiguan-2026-rm14qj-4-paint-1",
+    "path": "/images/vehicles/volkswagen/tiguan/2026/RM14QJ/2R2R/front-3q.png",
+    "sha256": "3519137e6889b06dac280482bb0276b45c9a1c1af0215030fbd665284065eeec"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2026-rm14qj-4",
+    "colorId": "vw-tiguan-2026-rm14qj-4-paint-2",
+    "path": "/images/vehicles/volkswagen/tiguan/2026/RM14QJ/2T2T/front-3q.png",
+    "sha256": "77cc8ddaf23df046c3c0d11a91f71b9fa3034a202abc0736acbe61e770e4aafb"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2026-rm14qj-4",
+    "colorId": "vw-tiguan-2026-rm14qj-4-paint-3",
+    "path": "/images/vehicles/volkswagen/tiguan/2026/RM14QJ/U1U1/front-3q.png",
+    "sha256": "24e717c44530603c2eabfdff2bd7a4edadb095c12c7c86079fbe78802a466987"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2026-rm14qj-4",
+    "colorId": "vw-tiguan-2026-rm14qj-4-paint-4",
+    "path": "/images/vehicles/volkswagen/tiguan/2026/RM14QJ/0Q0Q/front-3q.png",
+    "sha256": "07e39d8f4c49bc11eb2131cdafa9cf88f47c5b732bc2a72c1160744d4566d381"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2026-rm14qj-4",
+    "colorId": "vw-tiguan-2026-rm14qj-4-paint-5",
+    "path": "/images/vehicles/volkswagen/tiguan/2026/RM14QJ/U12T/front-3q.png",
+    "sha256": "99f7d1d4a99ea33ba07f1a6a4ea520ecab1720948898d158c0f2362899adcfac"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-tiguan-2026-rm14qj-4",
+    "colorId": "vw-tiguan-2026-rm14qj-4-paint-6",
+    "path": "/images/vehicles/volkswagen/tiguan/2026/RM14QJ/6U2T/front-3q.png",
+    "sha256": "df874a3744e87031a83442c7ac9232fa0e6e631c9c52f7db371b0e9730e50d75"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5urny4-0",
+    "colorId": "vw-saveiro-2027-5urny4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5URNY4/A1A1/front-3q.png",
+    "sha256": "53bcbc23d249bc0798680cd6d11cada1cdea4d08449526133067b51716d3630b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5urny4-0",
+    "colorId": "vw-saveiro-2027-5urny4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5URNY4/B4B4/front-3q.png",
+    "sha256": "5e7b7bacab43d0b622b762b59782582981a7ebb892cbd71a74d429501c0254ef"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5urny4-0",
+    "colorId": "vw-saveiro-2027-5urny4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5URNY4/7Z7Z/front-3q.png",
+    "sha256": "2eaed572edc4ef0bb16556714b1a7b8806a02579524a2b5224e262b954a7977b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5urnu4-0",
+    "colorId": "vw-saveiro-2027-5urnu4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5URNU4/A1A1/front-3q.png",
+    "sha256": "53bcbc23d249bc0798680cd6d11cada1cdea4d08449526133067b51716d3630b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5urnu4-0",
+    "colorId": "vw-saveiro-2027-5urnu4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5URNU4/B4B4/front-3q.png",
+    "sha256": "5e7b7bacab43d0b622b762b59782582981a7ebb892cbd71a74d429501c0254ef"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5urnu4-0",
+    "colorId": "vw-saveiro-2027-5urnu4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5URNU4/7Z7Z/front-3q.png",
+    "sha256": "2eaed572edc4ef0bb16556714b1a7b8806a02579524a2b5224e262b954a7977b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5urtu4-0",
+    "colorId": "vw-saveiro-2027-5urtu4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5URTU4/A1A1/front-3q.png",
+    "sha256": "cc228b076f86ccce6a862ca10d1abfe787dd3c07a6184f4695173ab0f21b9ba5"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5urtu4-0",
+    "colorId": "vw-saveiro-2027-5urtu4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5URTU4/B4B4/front-3q.png",
+    "sha256": "ef15d0fe48894273459af5e376f8ca073b279a7cc9b179ed76bcefdcd1533618"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5urtu4-0",
+    "colorId": "vw-saveiro-2027-5urtu4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5URTU4/3X3X/front-3q.png",
+    "sha256": "178185a06b81b87fb6f0699e3a2451c863af5af73ccaa1f6ce51b6fff01edc5c"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5urtu4-0",
+    "colorId": "vw-saveiro-2027-5urtu4-0-paint-3",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5URTU4/7Z7Z/front-3q.png",
+    "sha256": "0023d8f22f903f844c0f14f560bbf7581a9ce6d2e899273fb355f4717e8db3d4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5uknu4-0",
+    "colorId": "vw-saveiro-2027-5uknu4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5UKNU4/A1A1/front-3q.png",
+    "sha256": "def4c00eeb08938cfc27ef7031ee03fb102e11476c7f2237b13c9ab693f7450f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5uknu4-0",
+    "colorId": "vw-saveiro-2027-5uknu4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5UKNU4/B4B4/front-3q.png",
+    "sha256": "45f83381c694957ac346e778f400f9b5af4de9d1d490a2881dd8e8f37209c38a"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5uknu4-0",
+    "colorId": "vw-saveiro-2027-5uknu4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5UKNU4/7Z7Z/front-3q.png",
+    "sha256": "7026978ceaa062f5f48cf85d6d1b13f72cc6073b1fe4d4b3a2d516af06233d2a"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5uk8u4-0",
+    "colorId": "vw-saveiro-2027-5uk8u4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5UK8U4/A1A1/front-3q.png",
+    "sha256": "6215ff701c758359a959a9f916ff96feca7b0f0b16d50a371b6efc2c5e7e31c9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5uk8u4-0",
+    "colorId": "vw-saveiro-2027-5uk8u4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5UK8U4/B4B4/front-3q.png",
+    "sha256": "2a56f6e1d3c2123247e6c503d6b5c9d244e94744371f0628084a86c68501379b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5uk8u4-0",
+    "colorId": "vw-saveiro-2027-5uk8u4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5UK8U4/C2C2/front-3q.png",
+    "sha256": "b456167b5390b062e46474fe02819f99fdcec9327570209a661db96f91c6cad6"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5uk8u4-0",
+    "colorId": "vw-saveiro-2027-5uk8u4-0-paint-3",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5UK8U4/3X3X/front-3q.png",
+    "sha256": "b877bb056232af480db5a66984370fcb6ac8e92fff86a5888bc7e4a3514f1cad"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2027-5uk8u4-0",
+    "colorId": "vw-saveiro-2027-5uk8u4-0-paint-4",
+    "path": "/images/vehicles/volkswagen/saveiro/2027/5UK8U4/7Z7Z/front-3q.png",
+    "sha256": "4df2ee510e15e52c92f416b707885ba96f15795b07332dee0c1dd32abae02f29"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5urnu4-0",
+    "colorId": "vw-saveiro-2026-5urnu4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5URNU4/A1A1/front-3q.png",
+    "sha256": "53bcbc23d249bc0798680cd6d11cada1cdea4d08449526133067b51716d3630b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5urnu4-0",
+    "colorId": "vw-saveiro-2026-5urnu4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5URNU4/B4B4/front-3q.png",
+    "sha256": "5e7b7bacab43d0b622b762b59782582981a7ebb892cbd71a74d429501c0254ef"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5urnu4-0",
+    "colorId": "vw-saveiro-2026-5urnu4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5URNU4/7Z7Z/front-3q.png",
+    "sha256": "2eaed572edc4ef0bb16556714b1a7b8806a02579524a2b5224e262b954a7977b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5urtu4-0",
+    "colorId": "vw-saveiro-2026-5urtu4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5URTU4/A1A1/front-3q.png",
+    "sha256": "cc228b076f86ccce6a862ca10d1abfe787dd3c07a6184f4695173ab0f21b9ba5"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5urtu4-0",
+    "colorId": "vw-saveiro-2026-5urtu4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5URTU4/B4B4/front-3q.png",
+    "sha256": "ef15d0fe48894273459af5e376f8ca073b279a7cc9b179ed76bcefdcd1533618"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5urtu4-0",
+    "colorId": "vw-saveiro-2026-5urtu4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5URTU4/3X3X/front-3q.png",
+    "sha256": "178185a06b81b87fb6f0699e3a2451c863af5af73ccaa1f6ce51b6fff01edc5c"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5urtu4-0",
+    "colorId": "vw-saveiro-2026-5urtu4-0-paint-3",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5URTU4/7Z7Z/front-3q.png",
+    "sha256": "0023d8f22f903f844c0f14f560bbf7581a9ce6d2e899273fb355f4717e8db3d4"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5uknu4-0",
+    "colorId": "vw-saveiro-2026-5uknu4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5UKNU4/A1A1/front-3q.png",
+    "sha256": "def4c00eeb08938cfc27ef7031ee03fb102e11476c7f2237b13c9ab693f7450f"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5uknu4-0",
+    "colorId": "vw-saveiro-2026-5uknu4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5UKNU4/B4B4/front-3q.png",
+    "sha256": "45f83381c694957ac346e778f400f9b5af4de9d1d490a2881dd8e8f37209c38a"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5uknu4-0",
+    "colorId": "vw-saveiro-2026-5uknu4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5UKNU4/7Z7Z/front-3q.png",
+    "sha256": "7026978ceaa062f5f48cf85d6d1b13f72cc6073b1fe4d4b3a2d516af06233d2a"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5uk8u4-0",
+    "colorId": "vw-saveiro-2026-5uk8u4-0-paint-0",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5UK8U4/A1A1/front-3q.png",
+    "sha256": "6215ff701c758359a959a9f916ff96feca7b0f0b16d50a371b6efc2c5e7e31c9"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5uk8u4-0",
+    "colorId": "vw-saveiro-2026-5uk8u4-0-paint-1",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5UK8U4/B4B4/front-3q.png",
+    "sha256": "2a56f6e1d3c2123247e6c503d6b5c9d244e94744371f0628084a86c68501379b"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5uk8u4-0",
+    "colorId": "vw-saveiro-2026-5uk8u4-0-paint-2",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5UK8U4/C2C2/front-3q.png",
+    "sha256": "b456167b5390b062e46474fe02819f99fdcec9327570209a661db96f91c6cad6"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5uk8u4-0",
+    "colorId": "vw-saveiro-2026-5uk8u4-0-paint-3",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5UK8U4/3X3X/front-3q.png",
+    "sha256": "b877bb056232af480db5a66984370fcb6ac8e92fff86a5888bc7e4a3514f1cad"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-saveiro-2026-5uk8u4-0",
+    "colorId": "vw-saveiro-2026-5uk8u4-0-paint-4",
+    "path": "/images/vehicles/volkswagen/saveiro/2026/5UK8U4/7Z7Z/front-3q.png",
+    "sha256": "4df2ee510e15e52c92f416b707885ba96f15795b07332dee0c1dd32abae02f29"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-amarok-2026-agdc8a-0",
+    "colorId": "vw-amarok-2026-agdc8a-0-paint-0",
+    "path": "/images/vehicles/volkswagen/amarok/2026/AGDC8A/0Q0Q/front-3q.png",
+    "sha256": "7952e81954be117a2b44f1bddf3f33d066218215113a3231fb530ad7a8d1b2c7"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-amarok-2026-agdc8a-0",
+    "colorId": "vw-amarok-2026-agdc8a-0-paint-3",
+    "path": "/images/vehicles/volkswagen/amarok/2026/AGDC8A/K2K2/front-3q.png",
+    "sha256": "857e2864b3ad9feae43b12ebb779835f3b748042b86f2533d5d048e8080561cc"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-amarok-2026-agdc8a-0",
+    "colorId": "vw-amarok-2026-agdc8a-0-paint-5",
+    "path": "/images/vehicles/volkswagen/amarok/2026/AGDC8A/2T2T/front-3q.png",
+    "sha256": "16a13e1051dd2b397d8d094d9a97c720b4c5a466af3b546394625988c08a17ee"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-amarok-2026-agdd8a-0",
+    "colorId": "vw-amarok-2026-agdd8a-0-paint-0",
+    "path": "/images/vehicles/volkswagen/amarok/2026/AGDD8A/0Q0Q/front-3q.png",
+    "sha256": "28a53d6fcaa14f3b42f1a6d6a6e2c90f8727c1acd54dd848faf48d030b9736d8"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-amarok-2026-agdd8a-0",
+    "colorId": "vw-amarok-2026-agdd8a-0-paint-2",
+    "path": "/images/vehicles/volkswagen/amarok/2026/AGDD8A/3X3X/front-3q.png",
+    "sha256": "fa7cc6a1d6d63f09678cbc0b1cbe9bac0dfad9085b6b68749c7021f0b7396f08"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-amarok-2026-agdd8a-0",
+    "colorId": "vw-amarok-2026-agdd8a-0-paint-3",
+    "path": "/images/vehicles/volkswagen/amarok/2026/AGDD8A/K2K2/front-3q.png",
+    "sha256": "287d2b4759ae8120d5d0568057b33c6db2b6dce06b43a8fdc43881890f9d6db2"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-amarok-2026-agdd8a-0",
+    "colorId": "vw-amarok-2026-agdd8a-0-paint-4",
+    "path": "/images/vehicles/volkswagen/amarok/2026/AGDD8A/X3X3/front-3q.png",
+    "sha256": "161459e6efe581325c7b6c27197220b00ebb4787dffdb65985cbf22e31ed1452"
+  },
+  {
+    "brand": "volkswagen",
+    "version": "vw-amarok-2026-agdd8a-0",
+    "colorId": "vw-amarok-2026-agdd8a-0-paint-5",
+    "path": "/images/vehicles/volkswagen/amarok/2026/AGDD8A/2T2T/front-3q.png",
+    "sha256": "e2c2701c8797ba7a8a8747f77e2a44ac2599ef5bc4955b5f3fd547f4d14ead60"
+  }
+]

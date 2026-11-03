@@ -1,0 +1,48 @@
+{
+  "chevrolet": {
+    "families": 9,
+    "versions": 40,
+    "years": {
+      "2026": 2,
+      "2027": 38
+    },
+    "publicPriceValidated": 40,
+    "discountValidated": 34,
+    "withEquipment": 40,
+    "equipmentItems": 2025,
+    "paints": 220,
+    "packages": 0,
+    "withTechnical": 38,
+    "pending": 6,
+    "familiesWithPng": 9,
+    "versionsWithReferencePng": 40,
+    "pngAssets": 229,
+    "transparentPngAssets": 72,
+    "paintImagesMatched": 211,
+    "paintImagesMissing": 9,
+    "versionsWithPaintImages": 40
+  },
+  "volkswagen": {
+    "families": 10,
+    "versions": 62,
+    "years": {
+      "2026": 34,
+      "2027": 28
+    },
+    "publicPriceValidated": 32,
+    "discountValidated": 18,
+    "withEquipment": 62,
+    "equipmentItems": 3120,
+    "paints": 334,
+    "packages": 61,
+    "withTechnical": 49,
+    "pending": 44,
+    "familiesWithPng": 10,
+    "versionsWithReferencePng": 62,
+    "pngAssets": 344,
+    "transparentPngAssets": 61,
+    "paintImagesMatched": 271,
+    "paintImagesMissing": 63,
+    "versionsWithPaintImages": 56
+  }
+}

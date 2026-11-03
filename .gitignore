@@ -1,0 +1,21 @@
+node_modules/
+.deps-backup-fase1/
+.deps-verified/
+.deps-backup-fase1-2/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+.env*
+!.env.example
+*.log
+playwright-report/
+test-results/
+*.tmp.html
+docs/fontes-comerciais/*
+!docs/fontes-comerciais/README.md
+# Auditorias e documentos comerciais permanecem somente neste computador.
+docs/
+.local-deploy/
+.vercel/
+ECAR_MEGA_PROMPT_CODEX_FASE_2_DADOS_E_IMAGENS.md

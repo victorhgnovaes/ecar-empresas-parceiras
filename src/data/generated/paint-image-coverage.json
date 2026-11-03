@@ -1,0 +1,12 @@
+{
+  "chevrolet": {
+    "paintImagesMatched": 211,
+    "paintImagesMissing": 9,
+    "versionsWithPaintImages": 40
+  },
+  "volkswagen": {
+    "paintImagesMatched": 271,
+    "paintImagesMissing": 63,
+    "versionsWithPaintImages": 56
+  }
+}
