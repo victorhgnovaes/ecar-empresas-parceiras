@@ -4,7 +4,7 @@ Catálogo Chevrolet e Volkswagen com 19 famílias e 102 versões, configurador d
 
 Site: https://victorhgnovaes.github.io/ecar-empresas-parceiras/
 
-O conteúdo permanece em revisão. Valores de outubro/2026 são referências; confirme preços, elegibilidade, disponibilidade e prazo com o Emerson ECAR, (11) 98926-6321. Condições vencidas ou não conciliadas não geram oferta final. Ilustrações temporárias e fichas técnicas incompletas são identificadas na interface.
+O conteúdo permanece em revisão. Valores de outubro/2026 são referências; confirme preços, elegibilidade, disponibilidade e prazo com o Emerson ECAR, (11) 98926-6321. Na Volkswagen, os preços e descontos cadastrados são aplicados até a próxima atualização manual, sem bloqueios por data, status de validação ou divergência comercial. A mesma regra libera pinturas e pacotes marcados para revisão e inclui os valores no catálogo e nas propostas. As verificações de vigência e conciliação da Chevrolet permanecem próprias. Ilustrações temporárias e fichas técnicas incompletas são identificadas na interface.
 
 ## Desenvolvimento
 

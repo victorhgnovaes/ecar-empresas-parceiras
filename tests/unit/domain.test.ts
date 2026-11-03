@@ -1,6 +1,6 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { vehicles } from "@/data/vehicles";
-import { calculateQuote, initialSelection, selectionForVersion, optionConflict } from "@/lib/pricing";
+import { calculateQuote, hasPublicPrice, initialSelection, selectionForVersion, optionConflict, versionColors, versionOptions } from "@/lib/pricing";
 import { configurationSummary, consultationMessage, getWhatsAppUrl } from "@/lib/proposal";
 import { defaultFilters, filterVehicles, startingPrice } from "@/lib/catalog";
 import { formatMoney } from "@/lib/format";
@@ -9,19 +9,42 @@ import type { Vehicle } from "@/types/domain";
 const polo = vehicles.find((v) => v.brand === "volkswagen" && v.slug === "polo")!;
 const robust = polo.versions.find((v) => v.commercialCode === "R11AQ4-2" && v.modelYear === 2027)!;
 
-// Historical commercial examples run inside the documented table's validity.
-// The production app and browser tests continue to use the real current date.
+// Keep Chevrolet's historical examples inside the documented table's validity.
+// Volkswagen continues using stored values regardless of date or review flags.
 beforeEach(() => { vi.useFakeTimers({ toFake: ["Date"] }); vi.setSystemTime(new Date("2026-10-30T12:00:00Z")); });
 afterEach(() => vi.useRealTimers());
 describe("Regras comerciais conciliadas", () => {
-  it("após outubro mantém a configuração, mas não oferece desconto expirado", () => {
+  it("após outubro mantém o desconto Volkswagen cadastrado", () => {
     vi.setSystemTime(new Date("2026-11-02T12:00:00Z"));
     const selection = selectionForVersion(polo, robust.id);
     const quote = calculateQuote(polo, selection);
-    expect(quote.finalAvailable).toBe(false);
-    expect(quote.discountCents).toBe(0);
-    expect(configurationSummary(polo, selection)).not.toContain("Valor final por unidade");
-    expect(configurationSummary(polo, selection)).toContain("confirmar com você");
+    expect(quote).toMatchObject({ finalAvailable: true, basisPoints: 1400, discountCents: 1371860, unitCents: 8427140, pendingReasons: [] });
+    expect(configurationSummary(polo, selection)).toContain("Valor final por unidade");
+    expect(configurationSummary(polo, selection)).toContain("Desconto: 14%");
+  });
+  it("libera as 62 versões Volkswagen mesmo com data vencida e pendências nas fontes", () => {
+    vi.setSystemTime(new Date("2030-11-02T12:00:00Z"));
+    for (const vehicle of vehicles.filter((v) => v.brand === "volkswagen")) {
+      expect(startingPrice(vehicle)).toBeGreaterThan(0);
+      for (const version of vehicle.versions) {
+        const selection = selectionForVersion(vehicle, version.id);
+        const quote = calculateQuote(vehicle, selection);
+        expect(quote).toMatchObject({ finalAvailable: true, basisPoints: version.discount!.basisPoints, pendingReasons: [] });
+        expect(hasPublicPrice(vehicle, version)).toBe(true);
+        expect(configurationSummary(vehicle, selection)).toContain("Preço público configurado:");
+        expect(configurationSummary(vehicle, selection)).toContain("Valor final por unidade:");
+      }
+    }
+  });
+  it("libera pinturas e pacotes Volkswagen marcados para revisão usando seus valores cadastrados", () => {
+    const taos = vehicles.find((v) => v.brand === "volkswagen" && v.slug === "taos")!;
+    const version = taos.versions.find((v) => v.options?.some((o) => o.blocked))!;
+    const color = versionColors(taos, version).find((c) => version.colors!.find((original) => original.id === c.id)?.blocked)!;
+    const option = versionOptions(taos, version).find((o) => version.options!.find((original) => original.id === o.id)?.blocked)!;
+    const selection = { ...selectionForVersion(taos, version.id), colorId: color.id, optionIds: [option.id] };
+    expect(color.blocked).toBe(false);
+    expect(optionConflict(taos, selection, option.id)).toBeNull();
+    expect(calculateQuote(taos, selection)).toMatchObject({ finalAvailable: true, colorCents: color.priceCents, optionsCents: option.priceCents });
   });
   it("classifica automática com modo manual sem virar câmbio manual", () => {
     const tracker = vehicles.find((v) => v.brand === "chevrolet" && v.slug === "tracker")!;
@@ -44,13 +67,13 @@ describe("Regras comerciais conciliadas", () => {
     expect(high.features).not.toEqual(robust.features);
     expect(high.colors!.every((c) => c.versionIds?.includes(high.id))).toBe(true);
   });
-  it("zero Faixa II não vira oferta de 3%, nem entra no menor preço", () => {
+  it("aplica os 3% cadastrados quando a Faixa II é zero e inclui a versão no catálogo", () => {
     const tCross = vehicles.find((v) => v.brand === "volkswagen" && v.slug === "t-cross")!;
     const sense = tCross.versions.find((v) => v.discount?.faixa2BasisPoints === 0)!;
     const q = calculateQuote(tCross, selectionForVersion(tCross, sense.id));
-    expect(q.finalAvailable).toBe(false); expect(q.basisPoints).toBeNull(); expect(q.discountCents).toBe(0);
-    expect(configurationSummary(tCross, selectionForVersion(tCross, sense.id))).not.toMatch(/Valor final por unidade|Desconto: 3%/);
-    expect(startingPrice({ ...tCross, versions: [sense] })).toBeNull();
+    expect(q.finalAvailable).toBe(true); expect(q.basisPoints).toBe(300); expect(q.discountCents).toBeGreaterThan(0);
+    expect(configurationSummary(tCross, selectionForVersion(tCross, sense.id))).toContain("Desconto: 3%");
+    expect(startingPrice({ ...tCross, versions: [sense] })).toBe(q.unitCents);
   });
   it("não inventa ficha técnica vazia nem publica marchas conflitantes", () => {
     expect(robust.technicalSpecs).toEqual({});
@@ -62,11 +85,17 @@ describe("Regras comerciais conciliadas", () => {
       expect(v.features.some((s) => s.startsWith("TRANSMISSÃO"))).toBe(false);
     }
   });
-  it("ausência de preço bloqueia cálculo, e prazo vencido bloqueia oferta", () => {
+  it("exige um preço para calcular, mas ignora o prazo vencido da Volkswagen", () => {
     const noPrice: Vehicle = { ...polo, versions: [{ ...robust, priceCents: null }] };
     expect(() => calculateQuote(noPrice, selectionForVersion(noPrice, robust.id))).toThrow("Preço público não informado");
     const expired: Vehicle = { ...polo, versions: [{ ...robust, discount: { ...robust.discount!, validUntil: "2020-01-01" } }] };
-    expect(calculateQuote(expired, selectionForVersion(expired, robust.id)).finalAvailable).toBe(false);
+    expect(calculateQuote(expired, selectionForVersion(expired, robust.id)).finalAvailable).toBe(true);
+  });
+  it("preserva a regra de vigência da Chevrolet", () => {
+    const gm = vehicles.find((v) => v.brand === "chevrolet" && v.slug === "onix")!;
+    const version = gm.versions.find((v) => v.discount?.status === "VALIDADO")!;
+    const expired: Vehicle = { ...gm, versions: [{ ...version, discount: { ...version.discount!, validUntil: "2020-01-01" } }] };
+    expect(calculateQuote(expired, selectionForVersion(expired, version.id)).finalAvailable).toBe(false);
   });
   it("cor gratuita e paga, opcionais e quantidade mantêm centavos exatos", () => {
     const base = selectionForVersion(polo, robust.id);

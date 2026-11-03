@@ -1,7 +1,7 @@
 import type { ProposalContact, Vehicle, VehicleSelection } from "@/types/domain";
 import { calculateQuote } from "@/lib/finance";
 import { formatMoney, formatPercent } from "@/lib/format";
-import { versionColors, versionOptions } from "@/lib/pricing";
+import { hasPublicPrice, versionColors, versionOptions } from "@/lib/pricing";
 
 export function consultationMessage(brand?: string) {
   return `Olá, Emerson! Tudo bem? Vim pelo site ECAR Frotas | Empresas Parceiras e gostaria de atendimento para escolher ${brand ? `um veículo ${brand}` : "um veículo Chevrolet ou Volkswagen"} para minha empresa. Pode me ajudar com as versões disponíveis, preços, condições comerciais, documentação necessária e previsão de entrega? Quero conhecer a melhor opção para o meu perfil. Obrigado!`;
@@ -25,7 +25,7 @@ export function configurationSummary(vehicle: Vehicle, selection: VehicleSelecti
     `Pintura: ${color.name} (${color.paintType ?? "pintura"}) · adicional ${formatMoney(color.priceCents)}`,
     `Opcionais: ${options.map((o) => `${o.code ? `${o.code} — ` : ""}${o.name} (${formatMoney(o.priceCents)})`).join("; ") || "Nenhum selecionado"}`,
     `Quantidade: ${selection.quantity}`, "",
-    ...(quote && version.priceStatus === "VALIDADO" ? [`Preço público da versão: ${formatMoney(quote.versionCents)}`, `Cor e pacotes: ${formatMoney(quote.colorCents + quote.optionsCents)}`, `Preço público configurado: ${formatMoney(quote.publicCents)}`] : []),
+    ...(quote && hasPublicPrice(vehicle, version) ? [`Preço público da versão: ${formatMoney(quote.versionCents)}`, `Cor e pacotes: ${formatMoney(quote.colorCents + quote.optionsCents)}`, `Preço público configurado: ${formatMoney(quote.publicCents)}`] : []),
     ...(quote?.finalAvailable ? [`Desconto: ${formatPercent(quote.basisPoints!)} sobre ${((version.discount ?? vehicle.discount).appliesTo === "vehicle") ? "o preço da versão" : "o preço configurado"}`, `Economia por unidade: ${formatMoney(quote.discountCents)}`, `Valor final por unidade: ${formatMoney(quote.unitCents)}`, `Total para ${selection.quantity} veículo(s): ${formatMoney(quote.totalCents)}`, `Economia total: ${formatMoney(quote.totalSavingsCents)}`] : ["Condições comerciais: gostaria de confirmar com você."]), "",
     "Referência de valores: outubro/2026, sujeita à confirmação de condições, elegibilidade e disponibilidade.",
     "Pode confirmar o valor atualizado, a disponibilidade desta configuração, a documentação necessária e a previsão de entrega? Tenho interesse em seguir com seu atendimento. Obrigado!",

@@ -29,7 +29,8 @@ describe("Catálogo comercial importado", () => {
       const quote = calculateQuote(vehicle, initial);
       expect(quote.publicCents - quote.discountCents).toBe(quote.unitCents);
       expect(quote.unitCents).toBeGreaterThan(0);
-      if (version.status === "PENDENTE_VALIDACAO") expect(quote.finalAvailable).toBe(false);
+      if (vehicle.brand === "volkswagen") expect(quote.finalAvailable).toBe(true);
+      else if (version.status === "PENDENTE_VALIDACAO") expect(quote.finalAvailable).toBe(false);
       for (const color of versionColors(vehicle, version).filter((c) => !c.blocked)) {
         expect(color.versionIds).toContain(version.id);
         expect(color.sources?.length).toBeGreaterThan(0);

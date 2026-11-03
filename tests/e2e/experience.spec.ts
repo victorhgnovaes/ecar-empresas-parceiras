@@ -110,7 +110,12 @@ test("19 famílias e 102 seleções de versão, imagens, estados pendentes e 404
       const yearButton = page.getByRole("button", { name: year, exact: true });
       if (await yearButton.getAttribute("aria-pressed") !== "true") await yearButton.click();
       await page.locator(`input[name="version"][value="${version.id}"]`).check();
-      if (version.status === "PENDENTE_VALIDACAO") await expect(page.getByTestId("final-price")).toHaveText("Consulte o Emerson ECAR");
+      if (vehicle.brand === "volkswagen") {
+        const quote = calculateQuote(vehicle, selectionForVersion(vehicle, version.id));
+        await expect(page.getByTestId("final-price")).toHaveText(formatMoney(quote.unitCents));
+        await expect(page.getByTestId("public-price")).toHaveText(formatMoney(quote.publicCents));
+        await expect(page.getByTestId("discount-price")).toHaveText(`− ${formatMoney(quote.discountCents)}`);
+      } else if (version.status === "PENDENTE_VALIDACAO") await expect(page.getByTestId("final-price")).toHaveText("Consulte o Emerson ECAR");
       await expect(page.locator(".commercial-heading")).toContainText(version.commercialCode!);
       await expect.poll(() => page.locator(".vehicle-preview img").evaluate((img) => (img as HTMLImageElement).naturalWidth)).toBeGreaterThan(0);
     }

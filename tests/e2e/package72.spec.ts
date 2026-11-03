@@ -18,7 +18,7 @@ test("72 caminhos PNG, vínculo de cor/versão e aviso provisório em desktop e 
     if (await year.getAttribute("aria-pressed") !== "true") await year.click();
     await page.locator(`input[name="version"][value="${version.id}"]`).check();
     const paint = page.locator(`input[name="color"][value="${color.id}"]`);
-    if (color.blocked) { await expect(paint).toBeDisabled(); continue; }
+    if (color.blocked && vehicle.brand !== "volkswagen") { await expect(paint).toBeDisabled(); continue; }
     await paint.check();
     await expect(page.locator(".vehicle-preview img")).toHaveAttribute("src", new RegExp(encodeURIComponent(item.path)));
     await expect.poll(() => page.locator(".vehicle-preview img").evaluate(img => (img as HTMLImageElement).complete && (img as HTMLImageElement).naturalWidth > 0)).toBe(true);

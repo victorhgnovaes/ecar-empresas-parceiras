@@ -4,8 +4,19 @@ function assertCents(value: number) {
   if (!Number.isSafeInteger(value) || value < 0) throw new Error("Valor monetário inválido.");
 }
 
-export function versionColors(vehicle: Vehicle, version: VehicleVersion) { return version.colors ?? vehicle.colors; }
-export function versionOptions(vehicle: Vehicle, version: VehicleVersion) { return version.options ?? vehicle.options.filter((o) => o.versionIds.includes(version.id)); }
+// Volkswagen uses the stored table until its next manual update. Source review
+// flags remain in the catalog for reference, without restricting calculations.
+export function versionColors(vehicle: Vehicle, version: VehicleVersion) {
+  const colors = version.colors ?? vehicle.colors;
+  return vehicle.brand === "volkswagen" ? colors.map((color) => ({ ...color, blocked: false })) : colors;
+}
+export function versionOptions(vehicle: Vehicle, version: VehicleVersion) {
+  const options = version.options ?? vehicle.options.filter((o) => o.versionIds.includes(version.id));
+  return vehicle.brand === "volkswagen" ? options.map((option) => ({ ...option, blocked: false })) : options;
+}
+export function hasPublicPrice(vehicle: Vehicle, version: VehicleVersion): version is VehicleVersion & { priceCents: number } {
+  return version.priceCents !== null && (vehicle.brand === "volkswagen" || version.priceStatus === "VALIDADO");
+}
 export function selectionForVersion(vehicle: Vehicle, versionId: string, quantity = 1): VehicleSelection {
   const version = vehicle.versions.find((v) => v.id === versionId);
   if (!version) throw new Error("Versão inválida.");
@@ -51,10 +62,12 @@ export function calculateQuote(vehicle: Vehicle, selection: VehicleSelection): Q
   [version.priceCents, color.priceCents, ...options.map((item) => item.priceCents)].forEach(assertCents);
   const rule = version.discount ?? vehicle.discount;
   const pendingReasons: string[] = [];
-  if (rule.status && rule.status !== "VALIDADO") pendingReasons.push("Condição comercial em validação");
-  if (version.priceStatus && version.priceStatus !== "VALIDADO") pendingReasons.push("Preço público em conciliação");
-  if (["PENDENTE_VALIDACAO", "HISTORICO", "DESCONTINUADO"].includes(version.status ?? "")) pendingReasons.push("Configuração sujeita à revisão comercial");
-  if (rule.validUntil && new Date().toISOString().slice(0, 10) > rule.validUntil) pendingReasons.push("Vigência encerrada; consulte condições atualizadas");
+  if (vehicle.brand !== "volkswagen") {
+    if (rule.status && rule.status !== "VALIDADO") pendingReasons.push("Condição comercial em validação");
+    if (version.priceStatus && version.priceStatus !== "VALIDADO") pendingReasons.push("Preço público em conciliação");
+    if (["PENDENTE_VALIDACAO", "HISTORICO", "DESCONTINUADO"].includes(version.status ?? "")) pendingReasons.push("Configuração sujeita à revisão comercial");
+    if (rule.validUntil && new Date().toISOString().slice(0, 10) > rule.validUntil) pendingReasons.push("Vigência encerrada; consulte condições atualizadas");
+  }
   if (rule.requiresBillingState && !/^(AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO)$/.test(selection.billingState ?? "")) pendingReasons.push("Informe a UF de faturamento");
   if (selection.factoryCode && version.configurations?.length && !version.configurations.includes(selection.factoryCode)) throw new Error("Código de fábrica inválido.");
   let basisPoints: number | null = rule.basisPoints;
