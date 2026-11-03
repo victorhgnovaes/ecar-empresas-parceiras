@@ -29,6 +29,16 @@ Os testes E2E usam Playwright. Neste computador, defina PLAYWRIGHT_CHANNEL=msedg
 
 ## Publicação
 
+### Vercel
+
+Projeto: https://ecar-empresas-parceiras-hotsite.vercel.app/
+
+Importe este repositório com **Root Directory** na raiz (campo vazio ou `.`), branch de produção `main` e Node.js **24.x**. O arquivo `vercel.json` fixa o preset **Next.js**, instalação `npm ci`, build `npm run build` e saída `.next`. Não use `public` nem `out` como saída da Vercel. O site não exige variáveis secretas nem reimportação de dados durante o build.
+
+As configurações de GitHub Pages ficam restritas ao workflow abaixo. Na Vercel, `VERCEL=1` mantém as rotas e os assets na raiz, mesmo se `GITHUB_PAGES` ou `NEXT_PUBLIC_BASE_PATH` antigos estiverem cadastrados. Depois do push, confira o deployment do commit novo e o domínio de produção, não apenas o status “Ready”.
+
+### GitHub Pages
+
 O workflow .github/workflows/deploy-pages.yml verifica os testes e gera a exportação estática, publicada no GitHub Pages após cada push na branch main. A configuração GITHUB_PAGES=true e NEXT_PUBLIC_BASE_PATH=/ecar-empresas-parceiras é definida no workflow. Sem essas variáveis o projeto mantém o servidor Next.js padrão.
 
 Para verificar a exportação, após gerar o build com essas variáveis, execute npx playwright test --config playwright.pages.config.ts. Também é possível verificar o site publicado definindo ECAR_PUBLIC_URL com o endereço acima.

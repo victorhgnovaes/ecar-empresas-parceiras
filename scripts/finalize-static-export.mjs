@@ -1,7 +1,7 @@
 import { readdir, copyFile, writeFile } from "node:fs/promises";
 import { resolve, relative, sep } from "node:path";
 
-if (process.env.GITHUB_PAGES === "true") {
+if (process.env.GITHUB_PAGES === "true" && process.env.VERCEL !== "1") {
   const root = resolve("out");
   let repaired = 0;
   // Next 16.4 on Windows exports segment-cache paths with backslashes;
