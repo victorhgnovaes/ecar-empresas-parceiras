@@ -8,6 +8,5 @@ export const siteConfig = {
   consultantPhone: "(11) 98926-6321",
   socialLinks: { instagram: "", linkedin: "", youtube: "" },
   canonicalUrl: "",
-  reviewNotice: "Conteúdo em revisão. Confirme preços, condições e disponibilidade com o Emerson ECAR.",
   demoNotice: "Condições e disponibilidade: consulte o Emerson ECAR · (11) 98926-6321.",
 };

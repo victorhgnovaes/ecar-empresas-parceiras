@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 
-for (const width of [1440, 375]) test(`publicação: navegação, imagens e revisão em ${width}px`, async ({ page, baseURL }) => {
+for (const width of [1440, 375]) test(`publicação: navegação, imagens e conteúdo sem aviso de revisão em ${width}px`, async ({ page, baseURL }) => {
   await page.setViewportSize({ width, height: 900 });
   const errors: string[] = [];
   page.on("pageerror", (error) => errors.push(error.message));
@@ -9,8 +9,8 @@ for (const width of [1440, 375]) test(`publicação: navegação, imagens e revi
     const response = await page.goto(new URL(path, baseURL!).href);
     expect(response?.status()).toBe(200);
     await page.waitForLoadState("networkidle");
-    await expect(page.getByRole("complementary", { name: "Aviso sobre o conteúdo" })).toContainText("Conteúdo em revisão.");
-    await expect(page.getByRole("link", { name: /Falar com o Emerson/ })).toHaveAttribute("href", /wa.me\/5511989266321/);
+    await expect(page.getByRole("complementary", { name: "Aviso sobre o conteúdo" })).toHaveCount(0);
+    await expect(page.getByText(/conteúdo (?:está )?em revisão/i)).toHaveCount(0);
     expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), path).toBe(true);
     expect(await page.locator("header img").evaluate((image) => (image as HTMLImageElement).naturalWidth)).toBeGreaterThan(0);
   }

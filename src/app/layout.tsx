@@ -1,9 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
-import { ContentReviewNotice } from "@/components/content-review-notice";
 import { sitePath } from "@/lib/site-path";
 import "./globals.css";
-import "@/styles/content-review.css";
 import "@/styles/visual-system.css";
 import "@/styles/premium-configurator.css";
 
@@ -19,5 +17,5 @@ export const metadata: Metadata = {
 export const viewport: Viewport = { width: "device-width", initialScale: 1, themeColor: "#071d42" };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="pt-BR" data-scroll-behavior="smooth"><body className={inter.variable}><a className="skip-link" href="#conteudo">Pular para o conteúdo</a><ContentReviewNotice />{children}</body></html>;
+  return <html lang="pt-BR" data-scroll-behavior="smooth"><body className={inter.variable}><a className="skip-link" href="#conteudo">Pular para o conteúdo</a>{children}</body></html>;
 }
